@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2026-04-11-insight-028",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "非技术人员用AI工具独立构建产品原型",
+    "original_quote": "他们下载了Cursor，先做了象棋谜题。后来发现AI生成的谜题质量不行，就找了一个在线象棋谜题数据库来训练它。然后不断做移动端原型给我试玩，直到我觉得够好了。大约六个月。",
+    "original_context": "两个既不懂编程也不懂象棋的员工，在没有工程师资源支持的情况下，借助AI工具从零搭建了象棋课程原型，最终该课程达到700万日活。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  },
+  {
+    "id": "2026-04-11-insight-029",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "PM用AI直接生成可交互原型替代文字提案，提升决策效率",
+    "original_quote": "与其拿着一份书面提案来找我，不如直接带着原型来。这样我能看到它是不是真的有效，审批就快多了。",
+    "original_context": "Duolingo内部产品经理工作方式转变：不再写长篇提案文档，而是直接用AI做出可交互原型，让CEO能直接体验功能而非凭想象判断。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  },
+  {
+    "id": "2026-04-11-insight-030",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "全员vibe coding让非技术员工自发构建个人KPI工具",
+    "original_quote": "AI失败频道非常有力量。通常分享的都是很小的应用，但大家会说'天哪我做了一个app'。这对那些觉得自己不行的人来说特别鼓舞。",
+    "original_context": "Duolingo举办全公司vibe coding日，HR、财务等非技术员工也用AI写出应用，员工自发用AI为自己构建KPI仪表盘，形成自下而上的AI使用文化。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  },
+  {
+    "id": "2026-04-11-insight-031",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI代码生成在「快乐路径」之外效率增益有限，调试成本高",
+    "original_quote": "问题出在'快乐路径'上：AI写代码时，顺利的情况确实很快，但一旦出错，因为你不知道它做了什么，调试起来极其痛苦。在不顺利的路径上花的时间，往往吃掉了顺利时省下的时间。",
+    "original_context": "Luis反思AI编码工具的实际效果，指出大公司受制于协作成本和历史代码库，AI带来的提速是局部零散的，没有任何大公司真正实现10倍加速。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  },
+  {
+    "id": "2026-04-11-insight-032",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI内容批量生成质量不稳定，仍需人工质检",
+    "original_quote": "让AI写一个故事，demo看起来总是很惊艳。但当你批量生成一百个故事，会发现只有三成是合格的。Duolingo所有AI生成的内容都需要人工质检或抽检。",
+    "original_context": "Luis谈及AI在内容生成场景的局限性，强调demo效果与规模化生产质量之间存在显著落差。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  },
+  {
+    "id": "2026-04-11-insight-033",
+    "created_at": "2026-04-12T02:45:18.510Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI对话练习功能因成本下降将从付费档位逐步免费开放",
+    "original_quote": "我们正在经历一次平台级转换。在平台转换中，之前的赢家不一定是之后的赢家。所以我希望我们能跑在前面。",
+    "original_context": "Duolingo的AI对话练习功能最初放在最贵订阅档位，随推理成本下降计划逐步免费开放，驱动力是防止竞争对手以免费形式提供同类功能。",
+    "article_id": "2026-04-11-beaa95ca",
+    "article_title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+    "source": "晚点再听LaterCast",
+    "pub_date": "2026-04-11T01:20:00.000Z"
+  }
+]

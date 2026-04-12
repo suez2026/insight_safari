@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeChat Insights</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .search-box input {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .search-box button {
+            padding: 10px 20px;
+            background: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .search-box button:hover {
+            background: #0056b3;
+        }
+
+        .filters {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .filter-group label {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .filter-group select {
+            padding: 6px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .filter-group input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+
+        .filter-group input[type="date"] {
+            padding: 6px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .date-picker-group {
+            gap: 8px;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .tab.active {
+            background: #007bff;
+            color: #fff;
+        }
+
+        .stats {
+            background: #fff;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #666;
+        }
+
+        .results {
+            display: grid;
+            gap: 15px;
+        }
+
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .card-title:hover {
+            color: #007bff;
+        }
+
+        .card-meta {
+            font-size: 12px;
+            color: #999;
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+        }
+
+        .card-source {
+            display: inline-block;
+            padding: 2px 8px;
+            background: #e9ecef;
+            border-radius: 4px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .card-dimension {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            color: #fff;
+        }
+
+        .dimension-ai-infra { background: #6c5ce7; }
+        .dimension-agent-infra { background: #00b894; }
+        .dimension-agent-app { background: #e17055; }
+
+        .card-keywords {
+            margin-top: 8px;
+            font-size: 12px;
+            color: #888;
+        }
+
+        .card-quote {
+            font-size: 15px;
+            color: #333;
+            line-height: 1.7;
+        }
+
+        .insight-dimension {
+            margin-bottom: 10px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .article-title-link {
+            font-size: 13px;
+            color: #666;
+            text-decoration: none;
+        }
+
+        .article-title-link:hover {
+            color: #007bff;
+            text-decoration: underline;
+        }
+
+        /* 分组展示样式 */
+        .article-group {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+
+        .article-group-header {
+            padding: 15px 20px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #eee;
+        }
+
+        .article-group-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .article-group-title:hover {
+            color: #007bff;
+        }
+
+        .article-group-meta {
+            font-size: 12px;
+            color: #999;
+        }
+
+        .dimension-group {
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .dimension-group:last-child {
+            border-bottom: none;
+        }
+
+        .dimension-group-header {
+            padding: 10px 20px;
+            background: #fafafa;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .dimension-group-content {
+            padding: 0;
+        }
+
+        .insight-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #f5f5f5;
+        }
+
+        .insight-item:last-child {
+            border-bottom: none;
+        }
+
+        .insight-item .card-quote {
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .insight-item .card-keywords {
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>WeChat Insights</h1>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索关键词，如：MCP、Agent、模型训练..." onkeypress="if(event.key==='Enter')search()">
+                <button onclick="search()">搜索</button>
+            </div>
+            <div class="filters">
+                <div class="filter-group">
+                    <label>时间范围：</label>
+                    <select id="dateRange">
+                        <option value="7">最近 7 天</option>
+                        <option value="14">最近 14 天</option>
+                        <option value="30" selected>最近 30 天</option>
+                        <option value="90">最近 90 天</option>
+                        <option value="all">全部</option>
+                        <option value="custom">自定义</option>
+                    </select>
+                </div>
+                <div class="filter-group date-picker-group" id="customDateRange" style="display: none;">
+                    <input type="date" id="startDate" title="开始日期">
+                    <span style="color: #999;">至</span>
+                    <input type="date" id="endDate" title="结束日期">
+                </div>
+                <div class="filter-group">
+                    <label>维度：</label>
+                    <select id="dimensionFilter">
+                        <option value="all">全部维度</option>
+                        <option value="AI Infra">AI Infra</option>
+                        <option value="Agent Infra">Agent Infra</option>
+                        <option value="Agent 应用">Agent 应用</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>来源：</label>
+                    <select id="sourceFilter">
+                        <option value="all">全部来源</option>
+                        <!-- 动态填充 -->
+                    </select>
+                </div>
+                <div class="filter-group" id="filterToggleGroup" style="display: none;">
+                    <label>
+                        <input type="checkbox" id="showKeptOnly" checked>
+                        只显示已筛选
+                    </label>
+                </div>
+            </div>
+        </header>
+
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('insights')">观点</button>
+            <button class="tab" onclick="switchTab('articles')">文章</button>
+        </div>
+
+        <div class="stats" id="stats">
+            <div class="stat-item">
+                <div class="stat-value" id="totalArticles">-</div>
+                <div class="stat-label">文章总数</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="totalInsights">-</div>
+                <div class="stat-label">观点总数</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="totalSources">-</div>
+                <div class="stat-label">公众号数</div>
+            </div>
+        </div>
+
+        <div class="results" id="results">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+
+    <script>
+        // 配置
+        const DATA_BASE_URL = './data';
+
+        // 状态
+        let currentTab = 'insights';
+        let articlesData = [];
+        let insightsData = [];
+        let articlesMeta = null;
+
+        // 初始化
+        async function init() {
+            try {
+                // 加载元数据索引
+                const metaRes = await fetch(`${DATA_BASE_URL}/index/articles-meta.json`);
+                if (metaRes.ok) {
+                    articlesMeta = await metaRes.json();
+                    populateSourceFilter();
+                }
+
+                // 加载数据并渲染
+                await loadData();
+                updateStats();
+                render();
+
+                // 监听所有筛选器变化
+                document.getElementById('dateRange').addEventListener('change', async (e) => {
+                    const customDateRange = document.getElementById('customDateRange');
+                    if (e.target.value === 'custom') {
+                        // 显示日期选择器，设置默认值为最近 30 天
+                        customDateRange.style.display = 'flex';
+                        const today = new Date();
+                        const thirtyDaysAgo = new Date(today);
+                        thirtyDaysAgo.setDate(today.getDate() - 30);
+                        document.getElementById('endDate').value = today.toISOString().split('T')[0];
+                        document.getElementById('startDate').value = thirtyDaysAgo.toISOString().split('T')[0];
+                        // 触发加载
+                        await reloadData();
+                    } else {
+                        customDateRange.style.display = 'none';
+                        await reloadData();
+                    }
+                });
+
+                // 自定义日期变化时重新加载
+                document.getElementById('startDate').addEventListener('change', reloadData);
+                document.getElementById('endDate').addEventListener('change', reloadData);
+
+                // 维度和来源筛选：立即渲染，无需重新加载数据
+                document.getElementById('dimensionFilter').addEventListener('change', render);
+                document.getElementById('sourceFilter').addEventListener('change', render);
+                document.getElementById('showKeptOnly').addEventListener('change', render);
+
+            } catch (error) {
+                console.error('初始化失败:', error);
+                document.getElementById('results').innerHTML =
+                    '<div class="empty-state">数据加载失败，请检查数据文件是否存在。</div>';
+            }
+        }
+
+        // 重新加载数据（带 loading 状态）
+        async function reloadData() {
+            document.getElementById('results').innerHTML = '<div class="loading">加载中...</div>';
+            await loadData();
+            updateStats();
+            render();
+        }
+
+        // 计算日期范围内的所有日期
+        function getDateRange(days) {
+            const dates = [];
+            const today = new Date();
+
+            // 自定义日期范围
+            if (days === 'custom') {
+                const startStr = document.getElementById('startDate').value;
+                const endStr = document.getElementById('endDate').value;
+                if (startStr && endStr) {
+                    const start = new Date(startStr);
+                    const end = new Date(endStr);
+                    const current = new Date(start);
+                    while (current <= end) {
+                        dates.push(current.toISOString().split('T')[0]);
+                        current.setDate(current.getDate() + 1);
+                    }
+                    return dates;
+                }
+                // fallback: 最近 30 天
+                days = 30;
+            }
+
+            if (days === 'all') {
+                // 全部数据：从 articlesMeta 获取所有可用文件
+                if (articlesMeta && articlesMeta.files) {
+                    return articlesMeta.files.map(f => f.replace('.json', ''));
+                }
+                // fallback: 最近 365 天
+                days = 365;
+            }
+
+            for (let i = 0; i < days; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i);
+                dates.push(date.toISOString().split('T')[0]);
+            }
+            return dates;
+        }
+
+        // 加载单个分片文件
+        async function loadShard(type, dateStr) {
+            try {
+                const res = await fetch(`${DATA_BASE_URL}/${type}/${dateStr}.json`);
+                if (res.ok) {
+                    return await res.json();
+                }
+            } catch (e) {
+                // 文件不存在或加载失败，静默忽略
+            }
+            return [];
+        }
+
+        // 加载数据（按日期范围）
+        async function loadData() {
+            const dateRangeValue = document.getElementById('dateRange').value;
+            const dates = getDateRange(dateRangeValue === 'all' ? 'all' : (dateRangeValue === 'custom' ? 'custom' : parseInt(dateRangeValue, 10)));
+
+            // 并行加载所有分片文件
+            const articlePromises = dates.map(d => loadShard('articles', d));
+            const insightPromises = dates.map(d => loadShard('insights', d));
+
+            const [articleResults, insightResults] = await Promise.all([
+                Promise.all(articlePromises),
+                Promise.all(insightPromises)
+            ]);
+
+            // 合并所有结果
+            articlesData = articleResults.flat();
+            insightsData = insightResults.flat();
+
+            // 按发布日期降序排序（最新的在前）
+            articlesData.sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date));
+            insightsData.sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date));
+        }
+
+        // 更新统计（显示当前加载的数据数量）
+        function updateStats() {
+            // 已筛选的文章数
+            const keptArticles = articlesData.filter(a => a.filter_result?.keep);
+            document.getElementById('totalArticles').textContent = `${keptArticles.length}/${articlesData.length}`;
+            document.getElementById('totalInsights').textContent = insightsData.length;
+
+            // 来源数：从当前加载的数据统计
+            const sources = new Set([
+                ...articlesData.map(a => a.source),
+                ...insightsData.map(i => i.source)
+            ].filter(Boolean));
+            document.getElementById('totalSources').textContent = sources.size;
+        }
+
+        // 填充来源筛选
+        function populateSourceFilter() {
+            if (!articlesMeta || !articlesMeta.by_source) return;
+
+            const select = document.getElementById('sourceFilter');
+            for (const source of Object.keys(articlesMeta.by_source).sort()) {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = source;
+                select.appendChild(option);
+            }
+        }
+
+        // 切换 Tab
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+
+            // 文章 Tab 显示"只显示已筛选"开关
+            document.getElementById('filterToggleGroup').style.display =
+                tab === 'articles' ? 'flex' : 'none';
+
+            render();
+        }
+
+        // 搜索
+        function search() {
+            render();
+        }
+
+        // 渲染
+        function render() {
+            const keyword = document.getElementById('searchInput').value.toLowerCase().trim();
+            const dimension = document.getElementById('dimensionFilter').value;
+            const source = document.getElementById('sourceFilter').value;
+            const showKeptOnly = document.getElementById('showKeptOnly').checked;
+
+            let results = currentTab === 'insights'
+                ? [...insightsData]
+                : [...articlesData];
+
+            // 过滤
+            results = results.filter(item => {
+                // 文章 Tab：只显示已筛选
+                if (currentTab === 'articles' && showKeptOnly) {
+                    if (!item.filter_result?.keep) return false;
+                }
+
+                // 关键词搜索
+                if (keyword) {
+                    const searchText = currentTab === 'insights'
+                        ? `${item.key_viewpoints || ''} ${item.original_quote || ''} ${item.article_title || ''} ${item.dimension || ''}`
+                        : `${item.title || ''} ${item.filter_result?.article_keywords || ''} ${item.content || ''}`;
+                    if (!searchText.toLowerCase().includes(keyword)) return false;
+                }
+
+                // 维度筛选（仅观点 Tab）
+                if (dimension !== 'all' && currentTab === 'insights') {
+                    if (item.dimension !== dimension) return false;
+                }
+
+                // 来源筛选
+                if (source !== 'all') {
+                    if (item.source !== source) return false;
+                }
+
+                return true;
+            });
+
+            // 渲染结果
+            const container = document.getElementById('results');
+
+            if (results.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无数据</div>';
+                return;
+            }
+
+            if (currentTab === 'insights') {
+                // 按文章分组，再按维度分组
+                container.innerHTML = renderGroupedInsights(results);
+            } else {
+                container.innerHTML = results.map(renderArticleCard).join('');
+            }
+        }
+
+        // 按文章和维度分组观点
+        function groupInsightsByArticle(insights) {
+            const grouped = {};
+
+            for (const insight of insights) {
+                const articleKey = insight.article_url || 'unknown';
+
+                if (!grouped[articleKey]) {
+                    grouped[articleKey] = {
+                        article_title: insight.article_title || '未知文章',
+                        article_url: insight.article_url || '#',
+                        source: insight.source || '',
+                        pub_date: insight.pub_date || '',
+                        dimensions: {}
+                    };
+                }
+
+                const dimension = insight.dimension || '未分类';
+                if (!grouped[articleKey].dimensions[dimension]) {
+                    grouped[articleKey].dimensions[dimension] = [];
+                }
+                grouped[articleKey].dimensions[dimension].push(insight);
+            }
+
+            return grouped;
+        }
+
+        // 渲染分组后的观点
+        function renderGroupedInsights(insights) {
+            const grouped = groupInsightsByArticle(insights);
+
+            // 按日期降序排序文章
+            const sortedArticles = Object.values(grouped).sort((a, b) =>
+                new Date(b.pub_date) - new Date(a.pub_date)
+            );
+
+            if (sortedArticles.length === 0) {
+                return '<div class="empty-state">暂无数据</div>';
+            }
+
+            return sortedArticles.map(article => {
+                const dimensionOrder = ['AI Infra', 'Agent Infra', 'Agent 应用', '未分类'];
+                const dimensionsHtml = dimensionOrder
+                    .filter(dim => article.dimensions[dim])
+                    .map(dim => renderDimensionGroup(dim, article.dimensions[dim]))
+                    .join('');
+
+                return `
+                    <div class="article-group">
+                        <div class="article-group-header">
+                            <a class="article-group-title" href="${article.article_url}" target="_blank">
+                                ${article.article_title}
+                            </a>
+                            <div class="article-group-meta">
+                                <span class="card-source">${article.source}</span>
+                                <span style="margin-left: 10px;">${article.pub_date?.split('T')[0] || ''}</span>
+                                <span style="margin-left: 10px; color: #666;">${Object.values(article.dimensions).flat().length} 条观点</span>
+                            </div>
+                        </div>
+                        ${dimensionsHtml}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 渲染维度分组
+        function renderDimensionGroup(dimension, insights) {
+            const dimensionClass = {
+                'AI Infra': 'dimension-ai-infra',
+                'Agent Infra': 'dimension-agent-infra',
+                'Agent 应用': 'dimension-agent-app'
+            }[dimension] || '';
+
+            const insightsHtml = insights.map(insight => `
+                <div class="insight-item">
+                    <div class="card-quote">${insight.original_quote || ''}</div>
+                    ${insight.key_viewpoints ? `
+                        <div class="card-keywords">
+                            关键词：${insight.key_viewpoints}
+                        </div>
+                    ` : ''}
+                </div>
+            `).join('');
+
+            return `
+                <div class="dimension-group">
+                    <div class="dimension-group-header">
+                        <span class="card-dimension ${dimensionClass}">${dimension}</span>
+                        <span style="font-size: 12px; color: #999;">${insights.length} 条</span>
+                    </div>
+                    <div class="dimension-group-content">
+                        ${insightsHtml}
+                    </div>
+                </div>
+            `;
+        }
+
+        // 渲染观点卡片（观点优先展示）
+        function renderInsightCard(insight) {
+            const dimensionClass = {
+                'AI Infra': 'dimension-ai-infra',
+                'Agent Infra': 'dimension-agent-infra',
+                'Agent 应用': 'dimension-agent-app'
+            }[insight.dimension] || '';
+
+            return `
+                <div class="card">
+                    <div class="insight-dimension">
+                        <span class="card-dimension ${dimensionClass}">${insight.dimension || '未分类'}</span>
+                    </div>
+                    <div class="card-quote">${insight.original_quote || ''}</div>
+                    <div class="card-meta">
+                        <a class="article-title-link" href="${insight.article_url || '#'}" target="_blank">
+                            ${insight.article_title || '未知文章'}
+                        </a>
+                        <span style="margin: 0 8px;">·</span>
+                        <span class="card-source">${insight.source || ''}</span>
+                        <span style="margin-left: 10px;">${insight.pub_date?.split('T')[0] || ''}</span>
+                    </div>
+                    ${insight.key_viewpoints ? `
+                        <div class="card-keywords">
+                            关键词：${insight.key_viewpoints}
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }
+
+        // 渲染文章卡片
+        function renderArticleCard(article) {
+            return `
+                <div class="card">
+                    <div class="card-header">
+                        <a class="card-title" href="${article.url}" target="_blank">
+                            ${article.title}
+                        </a>
+                    </div>
+                    <div class="card-meta" style="margin-top: 10px; padding-top: 0; border-top: none;">
+                        <span class="card-source">${article.source}</span>
+                        <span style="margin-left: 10px;">${article.pub_date?.split('T')[0] || ''}</span>
+                        ${article.filter_result?.keep ? '<span style="margin-left: 10px; color: #00b894;">✓ 已筛选</span>' : ''}
+                    </div>
+                    ${article.filter_result?.article_keywords ? `
+                        <div class="card-keywords">
+                            关键词：${article.filter_result.article_keywords}
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }
+
+        // 启动
+        init();
+    </script>
+</body>
+</html>

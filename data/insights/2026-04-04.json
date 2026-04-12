@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-04-04-insight-143",
+    "created_at": "2026-04-12T02:49:42.922Z",
+    "dimension": "Agent Infra",
+    "key_viewpoints": "AI代理结合远程人才降低运营成本",
+    "original_quote": "结合海外顶尖的远程人才（如Athena服务）与强大的AI工具链，企业正以颠覆认知的极低成本，撬动空前极致的行政与运营效率。",
+    "original_context": "主理人们在讨论AI Agents掀起生产力革命时提出，AI工具链与全球远程人才的结合正在重塑知识工作者的成本结构。",
+    "article_id": "2026-04-04-8bf29883",
+    "article_title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017825&idx=1&sn=fd5a5be6b2fe36430fba02b91bd56daf&chksm=895015573a0eeacdcbcd68e95e9b6be932a96ebef6e967c70c9bbed6ba1a55de35d9bbae4c5c&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-04-04T14:35:00.000Z"
+  },
+  {
+    "id": "2026-04-04-insight-144",
+    "created_at": "2026-04-12T02:49:42.922Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI代理重塑全球知识工作者成本结构",
+    "original_quote": "这一模式不仅是一次效率升级，更是对全球知识工作者成本结构的降维打击与彻底重塑。",
+    "original_context": "讨论AI Agents与Athena等远程人才服务结合的商业模式时，主理人们指出这不只是效率工具，而是对传统用工模式的根本性颠覆。",
+    "article_id": "2026-04-04-8bf29883",
+    "article_title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017825&idx=1&sn=fd5a5be6b2fe36430fba02b91bd56daf&chksm=895015573a0eeacdcbcd68e95e9b6be932a96ebef6e967c70c9bbed6ba1a55de35d9bbae4c5c&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-04-04T14:35:00.000Z"
+  },
+  {
+    "id": "2026-04-04-insight-145",
+    "created_at": "2026-04-12T02:49:42.922Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "xAI与SpaceX、特斯拉的AI基础设施协同",
+    "original_quote": "他在研发xAI，而这项AI技术将跨界赋能这两家公司。",
+    "original_context": "Chamath分析SpaceX与特斯拉合并的必然性时，指出xAI作为底层AI基础设施将同时赋能机器人、制造与航天业务。",
+    "article_id": "2026-04-04-8bf29883",
+    "article_title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017825&idx=1&sn=fd5a5be6b2fe36430fba02b91bd56daf&chksm=895015573a0eeacdcbcd68e95e9b6be932a96ebef6e967c70c9bbed6ba1a55de35d9bbae4c5c&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-04-04T14:35:00.000Z"
+  },
+  {
+    "id": "2026-04-04-insight-146",
+    "created_at": "2026-04-12T02:49:42.922Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "AI驱动的万亿级公司上市将压缩传统软件估值",
+    "original_quote": "一旦SpaceX、OpenAI这种万亿级AI驱动巨兽登陆资本市场，传统纯软件科技公司的市盈率将面临断崖式暴跌——因为AI正在从底层代码级别，彻底瓦解这些老牌软件帝国的护城河。",
+    "original_context": "四位主理人质疑OpenAI、Anthropic等AI独角兽估值泡沫时，同时指出AI基础设施公司的上市将重新定价整个科技行业。",
+    "article_id": "2026-04-04-8bf29883",
+    "article_title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017825&idx=1&sn=fd5a5be6b2fe36430fba02b91bd56daf&chksm=895015573a0eeacdcbcd68e95e9b6be932a96ebef6e967c70c9bbed6ba1a55de35d9bbae4c5c&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-04-04T14:35:00.000Z"
+  }
+]

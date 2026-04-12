@@ -1,0 +1,774 @@
+{
+  "articles": [
+    {
+      "id": "2025-11-28-0f6e9d5b",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484782&idx=1&sn=be96f5791d884c069f883c42b46b25a0&chksm=96942862a1e3a17437ab5014bada7dbff293bb65eb9ea4e173e545ebea6cb0ae77c17900ae21#rd",
+      "title": "独家对话DeepMind谭捷：机器人、世界模型与Google",
+      "source": "语言即世界language is world",
+      "pub_date": "2025-11-28T09:32:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "谭捷，Google DeepMind，机器人，Gemini Robotics 1.5，VLA，强化学习，世界模型，跨本体迁移，仿真数据，具身智能"
+    },
+    {
+      "id": "2025-12-25-e75cf382",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484818&idx=1&sn=046e36a33470d8a0b45584eb8a6af8b3&chksm=9694289ea1e3a1885f8edd5fff3f4325caa8c03cbb89da20285edc5a1e8eabb42d341c114135#rd",
+      "title": "一家投资OpenAI的硅谷基金的深度研究",
+      "source": "语言即世界language is world",
+      "pub_date": "2025-12-25T09:30:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "Altimeter Capital，OpenAI，Anthropic，硅谷投资，AI泡沫，Robinhood，自动驾驶，Waymo，AI应用，Scaling Law"
+    },
+    {
+      "id": "2026-01-08-b19a14ac",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484839&idx=1&sn=bc0ce7197b7f758be07be392edd2768c&chksm=969428aba1e3a1bd47a733caa6c2c13399dd8f7bdc33456cf9edefe688ddc7d50a4728b3416d#rd",
+      "title": "全球大模型第一股的上市访谈：敢问路在何方？",
+      "source": "语言即世界language is world",
+      "pub_date": "2026-01-08T02:11:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "智谱，张鹏，港交所上市，全球大模型第一股，AGI，MiniMax，to B商业化，大模型泡沫，ChatGLM，清华"
+    },
+    {
+      "id": "2026-02-11-89f93fac",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+      "title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+      "source": "语言即世界language is world",
+      "pub_date": "2026-02-11T09:20:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "具身智能，VLA，世界模型，端到端，强化学习，视觉语言行动模型，Scaling Law，物理AGI，自动驾驶，机器人"
+    },
+    {
+      "id": "2026-03-10-3532edbf",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkzMDc1OTE5OQ==&mid=2247484764&idx=1&sn=38a3fd6a85aade29addffb2f706a109f&chksm=c3714b9979eccd4be9d983e2fcd50d7e37fc1bc35b3dee2488d677bec689e35abf453f01183b&scene=0#rd",
+      "title": "a16z合伙人解读Top 100 Gen AI报告",
+      "source": "Kulu的播客笔记",
+      "pub_date": "2026-03-10T15:37:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "a16z，Top100报告，Gen AI，消费级AI，Agent，记忆锁定，ChatGPT，Claude，垂直Agent，Manus"
+    },
+    {
+      "id": "2026-03-12-7d4363f7",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjAyNDk3OQ==&mid=2247484703&idx=1&sn=64e8628c5d8c1bbc8f41e5a5a06920d4&chksm=fe4692167722e05e9d5c833a6d2e44eb8b9373a2b0d9aad233eadda2c488a1065b3ad1515a5d&scene=0#rd",
+      "title": "这哥们用小龙虾自动躺赚几百刀，还把全套方法完全分享了",
+      "source": "董佳琦",
+      "pub_date": "2026-03-12T11:56:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-03-13-0384c08d",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjAyNDk3OQ==&mid=2247484710&idx=1&sn=7a195d95e5178737d1764842f20a3bc8&chksm=fe2317592c8629e839b283f6cb0a68b2af768fe889671543bc62faf1e7484405d326b79a8950&scene=0#rd",
+      "title": "马斯克又口嗨？AI已经自进化；全球经济将扩大十倍",
+      "source": "董佳琦",
+      "pub_date": "2026-03-13T13:13:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "马斯克，Abundance360峰会，硬起飞，递归自我改进，AGI，ASI，Optimus3，人形机器人，经济规模扩大，AI自我进化"
+    },
+    {
+      "id": "2026-03-13-9e2187bb",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkzMDc1OTE5OQ==&mid=2247484775&idx=1&sn=100a4498c3a82955be0b664a6de64567&chksm=c3c20787c34a7a708593dedf9b2e66b21d64e18b7590f2181319a0c74339ae11fb4f14697f7d&scene=0#rd",
+      "title": "顶流播客内容是如何炼成的？Lenny的首度全复盘",
+      "source": "Kulu的播客笔记",
+      "pub_date": "2026-03-13T16:21:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-03-13-d0946c0b",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkzMDc1OTE5OQ==&mid=2247484769&idx=1&sn=562955a04fd550bfaa5b60dd83549608&chksm=c30be82fa503c44b5e426e7cbf59c71de602b60be2a7cc5bf386f3f7d3cc7bc7c4c4fce785a4&scene=0#rd",
+      "title": "Lovart陈冕：AI将替代80%设计师，但这不仅是淘汰，更是平权 | 罗永浩的十字路口",
+      "source": "Kulu的播客笔记",
+      "pub_date": "2026-03-13T00:30:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Lovart，AI设计师，无限画布，设计替代，工作流上游，审美平权，AI Native，创业融资，陈冕，罗永浩"
+    },
+    {
+      "id": "2026-03-16-c34b65cb",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484867&idx=1&sn=95548c75fb51e6c0bb8f6a7296b625d2&chksm=970b7d3b7d68009b31de0da3d47a46373d0dabcf7e43b615eea090d80b63ba7e50e744e4405f&scene=0#rd",
+      "title": "独家对话谢赛宁：逃出硅谷！",
+      "source": "语言即世界language is world",
+      "pub_date": "2026-03-16T04:07:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "谢赛宁，AMI Labs，世界模型，Yann LeCun，LLM批判，Bitter Lesson，表征学习，视觉智能，预测大脑，Neo Labs"
+    },
+    {
+      "id": "2026-03-16-b4e19687",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkzMDc1OTE5OQ==&mid=2247484782&idx=1&sn=67a8b909f12cf057db5547892a2d69f1&chksm=c34726fcd6a44e09617a7236f261064ee0c6dc364688f824d0307b29ec7651e108604b7c7c1c&scene=0#rd",
+      "title": "投毒还是基建？看懂GEO的人，正悄悄在大模型里搞增长",
+      "source": "Kulu的播客笔记",
+      "pub_date": "2026-03-16T15:11:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "GEO，生成式引擎优化，AI投毒，EchoSurge.AI，大模型营销，内容生态，GEM，AI搜索，品牌可见性"
+    },
+    {
+      "id": "2026-03-17-4aa4b2a9",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkzMDc1OTE5OQ==&mid=2247484803&idx=1&sn=ee7562056dad707591260dc2e8f0e996&chksm=c3bb0da4eadefdfbe3db29ac49796ad7f0337c8c819156d39e905415ca5efe63dfa524a6a822&scene=0#rd",
+      "title": "Nvidia GTC 2026 | 黄仁勋：算力需求两年暴涨百万倍，Vera Rubin 与智能体工厂全解析",
+      "source": "Kulu的播客笔记",
+      "pub_date": "2026-03-17T05:36:00.000Z",
+      "keep": true,
+      "section": "四",
+      "article_keywords": "黄仁勋，GTC2026，Vera Rubin，Groq收购，解构式推理，Open Claw，智能体工厂，算力需求百万倍，Dynamo，Feynman架构"
+    },
+    {
+      "id": "2026-03-26-8e52c000",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499835&idx=1&sn=177cdc54f122161ee1bd05525054b0b2&chksm=cf9bb0bec365830da830e2e7f34b0b3e59391ef709c34760f7a734e34adaaa613cca5ab43e7f&scene=0#rd",
+      "title": "Kollab 想把 AI 变成团队操作系统，从个人提效到组织复利",
+      "source": "有新Newin",
+      "pub_date": "2026-03-26T02:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Kollab，Team Agent，协作工作流，Skills技能库，Memory记忆系统，AI协作，跨工具执行，组织效率"
+    },
+    {
+      "id": "2026-03-28-e6c499f2",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247497049&idx=1&sn=a840ffd77abf941b791b779df18f26c1&chksm=9e17fa2a5b1196762a886b98a29ef1a5b45c97118b4f11ce850bb6ff8acb47be5f3e8ba681ee&scene=0#rd",
+      "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+      "source": "硅谷101",
+      "pub_date": "2026-03-28T01:00:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "具身智能，开源模型，VLA模型，Physical Intelligence，π₀，OpenVLA，GR00T N1，Open X-Embodiment，LeRobot，机器人大脑"
+    },
+    {
+      "id": "2026-03-29-cc3a5d65",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247497051&idx=1&sn=7644329d4708d68933c721124975b154&chksm=9e789f806c4edc59fcc7d0bd233a5b33b059ae0b46306ac124ed4f3501e78d4a1177ca1dbc2d&scene=0#rd",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "source": "硅谷101",
+      "pub_date": "2026-03-29T00:51:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-03-31-9cca36d1",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjAyNDk3OQ==&mid=2247484720&idx=1&sn=e38eda9fd57c4bd6c340b579353f2f8a&chksm=fe07140d5b1f1220412cf2164832c511d0b7ded6803ef6b9744b9558c0dea5dc05ec94891d68&scene=0#rd",
+      "title": "Claude Code 泄露事件背后：AI Agent 如何改变企业执行力",
+      "source": "董佳琦",
+      "pub_date": "2026-03-31T16:08:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Claude Code,源码泄露,AI Agent,执行系统,工具调用,上下文管理,Anthropic,企业AI,agent loop"
+    },
+    {
+      "id": "2026-03-31-b5a8e9fe",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+      "title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+      "source": "有新Newin",
+      "pub_date": "2026-03-31T09:29:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "vibe coding，Anything，App Store，Guideline 2.5.2，Replit，Bitrig，Web优先，AI代码生成，平台封锁，创业生态"
+    },
+    {
+      "id": "2026-04-01-f1cdc208",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjAyNDk3OQ==&mid=2247484726&idx=1&sn=9f8908577b0f080f2cc6ece841a5bcd1&chksm=feab8abe04e6548c4603b33d80818998a2b439ff4ab4b25536e00da55c4ad4e42e2b8d353e36&scene=0#rd",
+      "title": "AI企业转型，最难的部分是敢不敢动组织，Oracle 刚给出了它的答案",
+      "source": "董佳琦",
+      "pub_date": "2026-04-01T16:41:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-01-c2119d28",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247497067&idx=1&sn=00a031927ac82f8c2197bd450c88291d&chksm=9ea7129bea6c870756395d3d5f4b0318d6663766162c6e7713a78eebc8976fd325f4b54ff752&scene=0#rd",
+      "title": "从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+      "source": "硅谷101",
+      "pub_date": "2026-04-01T04:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-02-82c57756",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499852&idx=1&sn=1795f4d2afa610d1d9fcaf2b22855e85&chksm=cf9c65de25dd6c83aad0583f934202cfeb84bf21e43fa49ea1ea3f3a23706fc146c69a10d592&scene=0#rd",
+      "title": "为什么大多数 AI 出海一开始就失败？问题不在产品",
+      "source": "有新Newin",
+      "pub_date": "2026-04-02T12:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "AI出海，产品全球化，SEO，社媒运营，联盟营销，Jenni AI，Gamma，冷启动，增长策略"
+    },
+    {
+      "id": "2026-04-04-8bf29883",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017825&idx=1&sn=fd5a5be6b2fe36430fba02b91bd56daf&chksm=895015573a0eeacdcbcd68e95e9b6be932a96ebef6e967c70c9bbed6ba1a55de35d9bbae4c5c&scene=0#rd",
+      "title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+      "source": "瓜哥AI新知",
+      "pub_date": "2026-04-04T14:35:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "All-In播客，Chamath，SpaceX IPO，OpenAI估值，Anthropic，AGI，量子计算，加密货币，AI Agent，Athena"
+    },
+    {
+      "id": "2026-04-05-8e9470fe",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjAyNDk3OQ==&mid=2247484731&idx=1&sn=a57726219ce4340b9774f9af9c53f8da&chksm=fea597fd320926dd334c8695a3100d665d6ec45d7a19af5c7e50b5f1e2e9eb4634dc5a2d5ab4&scene=0#rd",
+      "title": "AI 时代的决策陷阱：为什么“逻辑自洽”的战略，往往输给“满地鸡毛”的现实？",
+      "source": "董佳琦",
+      "pub_date": "2026-04-05T15:59:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-05-ca613701",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017911&idx=1&sn=afa1de1b7c58ff9b840e068b53a3f2f9&chksm=8900b0e155ce63f143f63264824d9da4240a65cd5dc50b1a1172c18af40ba2a9c7e3f3133f34&scene=0#rd",
+      "title": "奥特曼：算力即国运，智能体将催生“一人公司”，放弃Sora避免沦为掠夺人类注意力的工具",
+      "source": "瓜哥AI新知",
+      "pub_date": "2026-04-05T12:12:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Sam Altman，OpenAI，算力，AI智能体，一人公司，自动化科研，Sora，AGI，AI安全，社会契约"
+    },
+    {
+      "id": "2026-04-06-2e9f180d",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485632&idx=1&sn=e3cc036aa7e28bf8051c93dfe57871da&chksm=f40b8dddbdb7af14cc3eddc8018ad84f692e1e2cbe4ede41b3be391263d4e97f95d0e20a9f25&scene=0#rd",
+      "title": "前Netflix AI产品总监：AI PM不是你想的那种，看完这个再去投简历丨Aakash Gupta",
+      "source": "晚点再听LaterCast",
+      "pub_date": "2026-04-06T12:30:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "AI PM，产品经理，RAG，Fine-tuning，Agent架构，上下文工程，提示词工程，Netflix，Amazon，Meta"
+    },
+    {
+      "id": "2026-04-06-a8a61c3e",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497753&idx=1&sn=8cc1e0d6901e1d00c20657d71722ffff&chksm=f10afb1f75ccae6427ef854c3af706aa10faa3ec4c9d1991ffb6cab310735e3eca1551c457f7&scene=0#rd",
+      "title": "一个 6 周，一个 4 年，创业比的是反应",
+      "source": "AI 深度研究员",
+      "pub_date": "2026-04-06T23:57:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "Mo Gawdat，Google X，AI创业，反应速度，Emma项目，就业市场，试错成本，AI工具，硅谷，播客访谈"
+    },
+    {
+      "id": "2026-04-06-f834bd37",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497743&idx=1&sn=f8614bb16c8322a16e89d77a7e7d9d8c&chksm=f1be6f646cd7222fff07356bbd7daf3f15f1099df145240207400fccb1d26c0d54f233917a25&scene=0#rd",
+      "title": "写代码不再是门槛，软件公司靠什么？",
+      "source": "AI 深度研究员",
+      "pub_date": "2026-04-06T00:00:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "Simon Willison，Django，AI编程智能体，代码生成，提示词注入，黑灯工厂，软件安全，工程师分层，OpenAI Operator，Lenny's Podcast"
+    },
+    {
+      "id": "2026-04-06-d8530e43",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017948&idx=1&sn=6ada65e638b7ee04cebc955b9781c5c7&chksm=89b572098f4525ac91d3aa255038d6f888de115518062cbe0f651c71ed34d1749fbbfa86bb30&scene=0#rd",
+      "title": "Anthropic增长负责人：如何实现ARR从10亿飙升至190亿？AI将如何重塑产品经理？",
+      "source": "瓜哥AI新知",
+      "pub_date": "2026-04-06T09:27:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Anthropic，ARR增长，增长自动化，CASH项目，Claude Code，用户激活，产品经理角色，AI安全，增长实验，Lenny播客"
+    },
+    {
+      "id": "2026-04-07-6cc2e555",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzY4OTIxMjczNA==&mid=2247491668&idx=1&sn=2ac7f6af04280a907574f49843754b36&chksm=f2ee9a7a3dcbd3afac389f92ce96614667def6ca63520d069d86c128b76a4b366044a2af5271&scene=0#rd",
+      "title": "Claude仍处于增长阶段 | Anthropic 增长负责人对话实录",
+      "source": "数字开物",
+      "pub_date": "2026-04-07T10:23:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Anthropic，Amol Avasare，ARR增长，Claude Code，CASH项目，增长自动化，激活策略，MCP协议，产研比例，AI安全"
+    },
+    {
+      "id": "2026-04-07-88463e21",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485639&idx=1&sn=e24dc5f07f1e301ca081fa27df065dd5&chksm=f41cfc6030e7e7d0318826666bfb6ce6c9512bc20ff8d06c871f0136c70a3d6694b8bcaea7b2&scene=0#rd",
+      "title": "Anthropic增长主管：工程师越多，产品经理越稀缺丨Lenny's Podcast",
+      "source": "晚点再听LaterCast",
+      "pub_date": "2026-04-07T12:11:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Anthropic，增长团队，Claude Code，激活难题，CASH项目，PM稀缺，工程师生产力，冷邮件，ARR增长，能力溢出"
+    },
+    {
+      "id": "2026-04-07-5ba6134f",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk5MDg2MDU1OQ==&mid=2247487771&idx=1&sn=e1b6ef922686ff72535054b2460427d1&chksm=c4d0f01143731c6a18ea3e8aa4ba3a471d194d94475e58752ac7880d3cd2e782f8ba1eb0f113&scene=0#rd",
+      "title": "7 家近期值得关注的 AI 初创公司",
+      "source": "Fun AI Everyday",
+      "pub_date": "2026-04-07T01:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-07-d463094a",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497763&idx=1&sn=f41faac66481fd80b0add0ecde302000&chksm=f17ee79c2e6b70787e72699f57fe2d55e92061f8578f92850454f913fd0369cbfbf43cb95ae1&scene=0#rd",
+      "title": "Sam Altman：四天工作制，比你想的更快",
+      "source": "AI 深度研究员",
+      "pub_date": "2026-04-07T23:55:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Sam Altman，四天工作制，OpenAI，AI生产力，收入分配，网络安全，社会变革，Axios访谈"
+    },
+    {
+      "id": "2026-04-07-9cfa7ad7",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649107072&idx=1&sn=f894aa182f7159200ff9cc6dedd3c8a0&chksm=826b2a7aee52b0838f23544f7cf62df2511a70a6a5036d9aa14cc6473450310e86b320548b95&scene=0#rd",
+      "title": "这个华人团队，在海外做了一个「游戏版 TikTok」",
+      "source": "十字路口Crossing",
+      "pub_date": "2026-04-07T00:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Aippy，AI游戏社区，TikTok，华人出海，赤子城科技，竖屏Feed流，Remix，AI生成游戏"
+    },
+    {
+      "id": "2026-04-08-76b9c5ef",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzY4OTIxMjczNA==&mid=2247491676&idx=1&sn=06164416b0086dced029b19f80aa839c&chksm=f26b13cf14f5f6b4b89bc3065c4ca216066ed15dd36ce2385344f2504066e383543af9a11497&scene=0#rd",
+      "title": "实现AGI 必须消除“锯齿状智能”| DeepMind CEO最新对话实录",
+      "source": "数字开物",
+      "pub_date": "2026-04-08T10:26:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Demis Hassabis，DeepMind，AGI，Scaling Law，持续学习，锯齿状智能，存储系统，长程规划，AI安全监管，国际原子能机构"
+    },
+    {
+      "id": "2026-04-08-e67c7756",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzY4OTIxMjczNA==&mid=2247491676&idx=2&sn=0ffa415a3a9134883cf2b555fbe29f69&chksm=f24db1831e8c9011a70b14390185c67a3817ccf0b17158e5f2f66c605f3ae295b9b4e51f63f3&scene=0#rd",
+      "title": "谁在定义智算基础设施新基准？",
+      "source": "数字开物",
+      "pub_date": "2026-04-08T10:26:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-565a4b62",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485646&idx=1&sn=cf7fce1f981449dd556c30bbc55eb0da&chksm=f448d52fec9bd285324c93a9f9812a329fdd661b2d7a22175e68da785fb59547e3ba8aca7157&scene=0#rd",
+      "title": "Claude Code 实战：如何用一个工具支撑整个小团队丨Aakash Gupta",
+      "source": "晚点再听LaterCast",
+      "pub_date": "2026-04-08T16:29:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Claude Code，Team OS，CLAUDE.md，上下文管理，知识库，PM工作流，Agent，Slack MCP"
+    },
+    {
+      "id": "2026-04-08-f14b0a4a",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk5MDg2MDU1OQ==&mid=2247487797&idx=1&sn=2886b47ddb83072adac692c4c43e6382&chksm=c499ecbfdb7d39113408d532d1bd69e0454db495f92da07be7a3f7eb6600696e9850766a2a11&scene=0#rd",
+      "title": "苹果的 AI 战略到底是什么？",
+      "source": "Fun AI Everyday",
+      "pub_date": "2026-04-08T01:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "苹果,Apple Intelligence,Siri,端侧AI,私有云,模型集成,App Store,AI战略,终端平台"
+    },
+    {
+      "id": "2026-04-08-744dbe9d",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497773&idx=1&sn=eee617715823e1e66f07d4646dc12c5f&chksm=f114cb503cb88e9ca03989357d98f802c8038a761bc421091cf41087359544bf91ee52e60dd9&scene=0#rd",
+      "title": "哈萨比斯：AI 竞争，差距还会拉大",
+      "source": "AI 深度研究员",
+      "pub_date": "2026-04-08T23:58:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "哈萨比斯，DeepMind，AlphaFold，AlphaGo，AlphaTensor，AI竞争，Scaling Law，Agent，蛋白质折叠，技术壁垒"
+    },
+    {
+      "id": "2026-04-08-25a54b59",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649107107&idx=1&sn=e2b5228e8a8d85c8f6ffd8e5cde67490&chksm=82a0aeb4d1224e9ec27c717c9ec2bb6120560e1fc3e1993c9637a4ed4cb4ab69f9b74e426982&scene=0#rd",
+      "title": "AI 漫剧爆了 25 亿播放后，第一批垂直模型出现了｜实测 PixVerse C1",
+      "source": "十字路口Crossing",
+      "pub_date": "2026-04-08T04:07:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "PixVerse,C1模型,AI漫剧,垂直模型,多宫格分镜,术法特效,打斗动作,短剧,爱诗科技,视频生成"
+    },
+    {
+      "id": "2026-04-08-2eb491c5",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247497095&idx=1&sn=0f156dc5c81a76323677de13a25e0963&chksm=9e41fdfeddc9c6f313f7fc1d06e1158f222249985d65bfeaab84f050a93c065a1d41a95bb527&scene=0#rd",
+      "title": "动力电池深度对话：中国是怎么赢下这场硬仗的？",
+      "source": "硅谷101",
+      "pub_date": "2026-04-08T03:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-3745a005",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534565&idx=1&sn=bea81c79f2f1e7d3ef8af94a9ff7062b&chksm=fdc8946eeabb52ba0c9f8cdadfb1be41333e568fbb9be3fc071ac2bedca0f1eed085e33b4aaa&scene=0#rd",
+      "title": "字节 Seed 大模型人才外溢",
+      "source": "晚点LatePost",
+      "pub_date": "2026-04-08T14:23:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-2beeabb9",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534565&idx=2&sn=9fdfa602b7b77237babca401140c299b&chksm=fdc7d6a90e79369a40383480060621cf7b37ec26df38410f40ac6089168c895d0060cd001f42&scene=0#rd",
+      "title": "惠科上岸，在 LCD 沉没前挤进 OLED 的窄门",
+      "source": "晚点LatePost",
+      "pub_date": "2026-04-08T14:23:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-436e8e55",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk4ODU0OTkwOQ==&mid=2247489678&idx=1&sn=7cf73cb2f1cc2309f9c5b963d75dfaf4&chksm=c4baab48c63c19d1628f81ed901041f072ae4a9c43243982945eae15d1a7aa2a75ec2fe4ae6f&scene=0#rd",
+      "title": "话题讨论 | Sora之死：OpenAI从“梦想家”到“生意人”的成人礼",
+      "source": "GD梯度下降",
+      "pub_date": "2026-04-08T13:30:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-2917e18d",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk4ODU0OTkwOQ==&mid=2247489677&idx=1&sn=a4c65be024f1985d3c0f534dbf2c9b44&chksm=c423b1d67531bae6029480362f0257116b68423c6eec22d5bdaf542e74cd43313978f17c95e1&scene=0#rd",
+      "title": "数据库初创公司Supabase估值翻至100亿美元",
+      "source": "GD梯度下降",
+      "pub_date": "2026-04-08T02:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "Supabase，数据库，估值，融资，开源，Postgres，向量搜索，ARR"
+    },
+    {
+      "id": "2026-04-08-d4201aea",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247490910&idx=1&sn=2a3c82f899b532f04c75a9647d660937&chksm=96336aceebe78c25b4a5833eb3e2628db6ed5d06c16b9a8f7d43a2773a81e6d2c0e7130b4a7d&scene=0#rd",
+      "title": "谷歌 CEO 访谈录-1800 亿美元的 AI 豪赌",
+      "source": "Web3天空之城",
+      "pub_date": "2026-04-08T12:10:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-08-266d0969",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017984&idx=1&sn=8903e2c7799bd247448ae499c77bd23c&chksm=895aa79406b891c00925324ac659aa512d5e111942f97188cb159fd75c349f00dc8c595a0b42&scene=0#rd",
+      "title": "谷歌CEO桑达尔·皮查伊专访：搜索不会被替代，会进化为智能体管家，2027将成企业AI代理的“奇点之年”",
+      "source": "瓜哥AI新知",
+      "pub_date": "2026-04-08T13:56:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "桑达尔·皮查伊，谷歌，Gemini，搜索智能体化，AGI，TPU，算力瓶颈，2027企业AI代理，量子计算，太空数据中心"
+    },
+    {
+      "id": "2026-04-09-3eeedf5e",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzY4OTIxMjczNA==&mid=2247491681&idx=1&sn=b373fff13b69e1cb5fcdd572af061b88&chksm=f2979a4187cb970c5eb6ecf2e10395565e4dc3f9c857798e6468e09021fb56121b002401572f&scene=0#rd",
+      "title": "搜索框将消失，AI Agent 将接管你的所有复杂任务 | 谷歌 CEO最新对话实录",
+      "source": "数字开物",
+      "pub_date": "2026-04-09T10:52:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Sundar Pichai，谷歌，AI Agent，搜索转型，Gemini，TPU，资本支出，算力瓶颈，内存短缺，AGI"
+    },
+    {
+      "id": "2026-04-09-9ae13776",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485653&idx=1&sn=d849ed8fd9423ffbdc1b018f7b9caa93&chksm=f49ee035e133e111e442fdef8cde95dd36f4c0dd4404737815ab7d124c8c59de1a8cb34c538d&scene=0#rd",
+      "title": "Every CEO：我们从给每位员工配备AI Agent中学到了什么丨Every",
+      "source": "晚点再听LaterCast",
+      "pub_date": "2026-04-09T15:19:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Every，AI Agent，OpenClaw，Claude，个人AI分身，组织架构，Slack机器人，记忆问题，群聊失控，知识工作"
+    },
+    {
+      "id": "2026-04-09-0a35e24b",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk5MDg2MDU1OQ==&mid=2247487798&idx=1&sn=c20bd1c3f6e11fb3b80c4edb3eb1f891&chksm=c4cb79060f2ac9190064ca53380487b1bb3abacd80ead8f7bcac48610c2ff2b5e1405bbe95f4&scene=0#rd",
+      "title": "AI 开始雇真人了：RentAHuman 是猎奇项目还是新信号？",
+      "source": "Fun AI Everyday",
+      "pub_date": "2026-04-09T01:00:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "RentAHuman，AI agent，MCP，API，真人雇佣，线下执行，零工平台，自动化工作流，平台治理，agent调用边界"
+    },
+    {
+      "id": "2026-04-09-3162edec",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497783&idx=1&sn=374cd22d8c26b30c763941a6cbbde599&chksm=f13055d7619802693d7214d9d117b1ec3ae80546655a8e5c059ba3d895c44b6cd97c77118546&scene=0#rd",
+      "title": "谷歌 CEO：几乎所有软件，都要重做一遍",
+      "source": "AI 深度研究员",
+      "pub_date": "2026-04-09T23:56:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Sundar Pichai，谷歌，软件重构，Agent智能体，Antigravity，交互范式，工作流，2027拐点，AI原生，Gemini"
+    },
+    {
+      "id": "2026-04-09-36fbebac",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649107117&idx=1&sn=ef468b1582f395b271dfcd979448d6f2&chksm=826afd3bdb53a878a2a30f4d22668c05ad75bfa131b1bc5c67273c0052c639caa06025644aaf&scene=0#rd",
+      "title": "即梦 Octo 来了！它想做的 Vibe Create，是什么？",
+      "source": "十字路口Crossing",
+      "pub_date": "2026-04-09T10:38:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "即梦,Octo,AI创作工具,全链路创作,动态叙事,画布,资产系统,分镜生成,Seedance 2.0"
+    },
+    {
+      "id": "2026-04-09-9c79a4c7",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534843&idx=1&sn=919ee8f7b3a4e6bdc538d32cdb389893&chksm=fdce1e0d2639315b98caf4bd4bc7e77bca1b86e7d0174a83a07566a44571314d8800d990c162&scene=0#rd",
+      "title": "对话大疆汪滔：求真理、得自由、活成故事",
+      "source": "晚点LatePost",
+      "pub_date": "2026-04-09T04:38:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "汪滔，大疆，创业反思，组织管理，无人机，影像产品，熵减，黄埔军校，天空之城，竞争观"
+    },
+    {
+      "id": "2026-04-09-8bf83732",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk4ODU0OTkwOQ==&mid=2247489686&idx=1&sn=7cb135335ac94812bc9df1a9d51a18eb&chksm=c43c0700522b8401a1a9d3e7dd0aef76d31150f64d605895146da86e01adf206d984a8837b43&scene=0#rd",
+      "title": "深度访谈 | 对话NLP传奇：Sora不是真正的世界模型，Moonlake的AGI之路",
+      "source": "GD梯度下降",
+      "pub_date": "2026-04-09T13:30:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Moonlake，Chris Manning，世界模型，Sora，行动条件化，符号先验，具身智能，空间智能，双模型架构，Revery"
+    },
+    {
+      "id": "2026-04-09-3cc1149d",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk4ODU0OTkwOQ==&mid=2247489685&idx=1&sn=82e180f14ad74cea24654d7edb80d1bb&chksm=c4fdb39448967c92f811a3748cd561a081387be20e768d29f345579d5d0d65f3bf9de6b943b6&scene=0#rd",
+      "title": "深度访谈 | 从Android到Dreamer：前Stripe CTO想要定义“AI 操作系统”",
+      "source": "GD梯度下降",
+      "pub_date": "2026-04-09T04:30:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Dreamer，David Singleton，Agent OS，Sidekick，多代理协作，智能路由，Agentic Commerce，TypeScript，AI操作系统，创业"
+    },
+    {
+      "id": "2026-04-09-beeaeab4",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515013&idx=3&sn=7ba77a415f6b1b81c2e67950d9d3cb24&chksm=eadf8993ecf43587d9defd480b6254a3e1d307c229568a2781bbbb49f005af3b22ee65914361&scene=0#rd",
+      "title": "速递｜进入物理世界，硅谷VC Eclipse13亿美元押注实体产业AI初创",
+      "source": "Z Potentials",
+      "pub_date": "2026-04-09T03:55:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-09-79b43fc6",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515013&idx=2&sn=31f345c187334bd6710465adc67b1699&chksm=eaeca7feaf1b21e6366fdd41758140f521b5ddace84496b284d09911347a2f010c52de15f897&scene=0#rd",
+      "title": "速递｜Xoople获融1.3亿美元，用卫星+AI锁定企业工作流入口",
+      "source": "Z Potentials",
+      "pub_date": "2026-04-09T03:55:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-09-ddb5178b",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247490930&idx=1&sn=99dcc4e94b6d75a323e5048e7cd1f2b2&chksm=969cbbcda157d6af1940281a89bc7f53856e93a34f0745c63d664673d22812d44aacd91b9f3f&scene=0#rd",
+      "title": "最新对话DeepMind 戴米斯·哈萨比斯：通向 AGI - 科学、创造力与人类的未来 | 2万字图解",
+      "source": "Web3天空之城",
+      "pub_date": "2026-04-09T14:15:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "戴米斯·哈萨比斯，DeepMind，AGI，AlphaFold，蛋白质折叠，AlphaGo，强化学习，代理时代，科学发现，星际文明"
+    },
+    {
+      "id": "2026-04-10-9408b9a7",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzY4OTIxMjczNA==&mid=2247491688&idx=1&sn=c07e10db1c8d10526026560c2728dbbe&chksm=f2dc8ca7c85417cfe3ce18424e99955e29b8fe9e2118fac9d87dbc193a68797dd9319b5cd755&scene=0#rd",
+      "title": "我们正迈入部署 AGI的阶段 | OpenAI 首席科学家对话实录",
+      "source": "数字开物",
+      "pub_date": "2026-04-10T11:43:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Jakub Pachocki，OpenAI，AGI部署，思维链监控，强化学习，长程智能体，模型对齐，Codex，数学推理，超级智能"
+    },
+    {
+      "id": "2026-04-10-9b7e3c4e",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk5MDg2MDU1OQ==&mid=2247487816&idx=1&sn=a0477dbaedb082d1d6b0fe1c5e6d7627&chksm=c43fd8cbb91617a80efda48cb1076e2b7b4bddcbce734f4b641282ade2f514c99c5b116adccd&scene=0#rd",
+      "title": "从铀矿、雷达到建筑图纸：YC 最新 Demo Day 里，最值得看的三类 AI 公司",
+      "source": "Fun AI Everyday",
+      "pub_date": "2026-04-10T01:00:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "YC W2026，Demo Day，AI创企，垂直工作流，数据入口，铀矿勘探，机器人训练数据，医疗口译，建筑AI，可穿戴AI"
+    },
+    {
+      "id": "2026-04-10-fe2eaee0",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649107119&idx=1&sn=bfb8472359c8136ae2888a0673dd8a8e&chksm=8225971ebf74a319f0a75f0057a58dbaa6108d313e3b611bd371c35e163a763dc6827dce1d17&scene=0#rd",
+      "title": "“AGI 来了？我用了一周，头皮发麻”｜对谈张昊然：Moxt 联合创始人",
+      "source": "十字路口Crossing",
+      "pub_date": "2026-04-10T00:20:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Moxt，AI Native Workspace，AI同事，Agent，上下文管理，Markdown，文件系统，组织协作，AGI，工作方式变革"
+    },
+    {
+      "id": "2026-04-10-78efa721",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534849&idx=1&sn=a5b247e09ffbfe466c0ab8bfe70ec10b&chksm=fd6175950dd6965ca03fc228134c571f3505f356719ea065ca3c1eac7892746cd5c1fe77f072&scene=0#rd",
+      "title": "未来医生王仕锐：打造医疗 AGI，把临床医学更新提速 10 倍",
+      "source": "晚点LatePost",
+      "pub_date": "2026-04-10T01:00:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "未来医生，王仕锐，医疗AGI，临床实践指南，MedGPT，推理模型，快慢系统，开源医疗，严肃医疗，AI医生"
+    },
+    {
+      "id": "2026-04-10-c7cafab1",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534849&idx=2&sn=7aa15b66b6bb7bb2abd7078f2a980299&chksm=fd880a6e98bfebaadf0fbe9a0eae473ee593a2f7dd0ffe808db9d1e37ad5e203cfb57e842bf9&scene=0#rd",
+      "title": "具身季报 26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手丨晚点播客",
+      "source": "晚点LatePost",
+      "pub_date": "2026-04-10T01:00:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "具身智能，人形机器人，宇树科技，英伟达世界模型，灵巧手，Sharpa，VLA模型，WAM，银河通用，Figure AI"
+    },
+    {
+      "id": "2026-04-10-0667a39f",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk4ODU0OTkwOQ==&mid=2247489687&idx=1&sn=eda7e54767cc5606a102292dfb97d061&chksm=c4c88f95ced1b6e854cf9666c97b603cb36bcd25b3101ab405b38a15625306443f9d114d2590&scene=0#rd",
+      "title": "深度访谈 | YC对话Keras之父：AGI 2030 倒计时，AI 的下一场进化不在 LLM 内部",
+      "source": "GD梯度下降",
+      "pub_date": "2026-04-10T04:30:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "François Chollet，Keras，AGI，流体智力，NDIA，程序综合，符号下降，ARC-AGI，LLM局限，强化学习"
+    },
+    {
+      "id": "2026-04-10-41024220",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499893&idx=1&sn=edf9997565d530f8bae5bedb7c5bf666&chksm=cf0b50fcbea7e8e699297434397b13e1e100ed1e622a0afbcf88d38e0faeee83adf30b64bd3c&scene=0#rd",
+      "title": "华兴资本 CEO：AI 时代没有拐点，成功企业由一连串 PIVOT 组成",
+      "source": "有新Newin",
+      "pub_date": "2026-04-10T07:54:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "华兴资本，王力行，AI创业，PIVOT，智谱AI，硅基流动，全栈竞争，护城河，具身智能，创始人openness"
+    },
+    {
+      "id": "2026-04-10-9f868060",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499893&idx=2&sn=d84fca8693d3ad043d0c46e453c74126&chksm=cf6257fe587c7cfc85701f2c6a14182d8b6ddf1cd84e1deac56a74ef413c2c3af31eb5a5a50f&scene=0#rd",
+      "title": "前特斯拉与 SpaceX 工程师独家拆解：硅谷神话背后，那套可复制的效率操作系统",
+      "source": "有新Newin",
+      "pub_date": "2026-04-10T07:54:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-10-edcad923",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515032&idx=3&sn=c245c75d992cfd926abaa520f95e4b89&chksm=eac8893fc699cc0c57062ffcc9fbe7a64fc2c7b9d2fd875245e02d3a183f7a4281b76f9ade69&scene=0#rd",
+      "title": "速递｜前DeepMind研究员创办，AI视觉推理Elorian融资5500万美元",
+      "source": "Z Potentials",
+      "pub_date": "2026-04-10T02:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-10-a1cc1a3f",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515032&idx=2&sn=541c9448b3394d58460d6f6ee25f1ca3&chksm=eadc3cc3f476aca19d78d3152b20a2feec121842b6257c9230784b86937aaa1bfc6819b9d728&scene=0#rd",
+      "title": "速递｜OpenAI预测2030年广告收入1020亿美元，CPM定价60美元，目标是Meta",
+      "source": "Z Potentials",
+      "pub_date": "2026-04-10T02:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-10-7788f361",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515032&idx=1&sn=573ec11a345fcc51d9a213e4203e2050&chksm=ea3571e5f6ca56b99f4383894af8b952159ce7f29330f5e23289a367e1b971326e5688173fc9&scene=0#rd",
+      "title": "Z Potentials｜4个月Discord全球第二，然后呢？Viggle创始人首次讲述通往世界模型的路",
+      "source": "Z Potentials",
+      "pub_date": "2026-04-10T02:00:00.000Z",
+      "keep": true,
+      "section": "五",
+      "article_keywords": "Viggle AI，世界模型，3D生成式，World Token，JST架构，AI原生游戏，可控视频生成，端侧推理，创始人楚航，Discord社区"
+    },
+    {
+      "id": "2026-04-10-c9e66aa4",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247490964&idx=1&sn=8067ec2d0b3f852641bb44d5e1d632cc&chksm=9683a96008f7aac523acce40fb81cfa04226cf2bf215d37c210f59ece7b76f4eb053de736ddb&scene=0#rd",
+      "title": "HappyHorse「欢乐马」真相揭晓：阿里ATH郑波团队打造，4月30日开放API",
+      "source": "Web3天空之城",
+      "pub_date": "2026-04-10T07:49:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": ""
+    },
+    {
+      "id": "2026-04-10-b142086a",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247490954&idx=1&sn=72a945317e4c1c3b08e28274b072d718&chksm=966cb2685aff3aacc7e9f0471bcc3c25e08cb5cfefad7e64f7f8fb336ff8b8f4915d5aa51bbf&scene=0#rd",
+      "title": "Claude Mythos模型：当 AI 强大到创造者都不敢释放",
+      "source": "Web3天空之城",
+      "pub_date": "2026-04-10T02:22:00.000Z",
+      "keep": true,
+      "section": "三",
+      "article_keywords": "Claude Mythos，Anthropic，网络安全，零日漏洞，Project Glasswing，分级访问，AI安全，红队测试，Dario Amodei，自主攻防"
+    },
+    {
+      "id": "2026-04-10-a4de3da1",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018004&idx=1&sn=6cc13f89cde5ac148f0ec4f7d0559c82&chksm=8928e28d573c4bc0d56997bc70285327ac8d65310b89d866eeb3b0abc114a70286586d50afdd&scene=0#rd",
+      "title": "马克·安德森：“大语言模型 + Unix Shell + 文件系统 + Markdown + 定时任务”是伟大突破，加密货币会成为AI智能体的原生货币",
+      "source": "瓜哥AI新知",
+      "pub_date": "2026-04-10T15:33:00.000Z",
+      "keep": true,
+      "section": "二",
+      "article_keywords": "Marc Andreessen，a16z，AI智能体，大语言模型，Unix Shell，加密货币，稳定币，开源AI，边缘推理，规模法则，DeepSeek，创始人模式"
+    },
+    {
+      "id": "2026-04-11-beaa95ca",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247485664&idx=1&sn=f0e906cb2c4d218d57f308b778c070c4&chksm=f414ad2f7e1b02f77fada1d0fc875b707cde499dcb7772c468948566eb8f68b2111316c9255a&scene=0#rd",
+      "title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+      "source": "晚点再听LaterCast",
+      "pub_date": "2026-04-11T01:20:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "Duolingo，Luis von Ahn，AI编码，vibe coding，象棋课程，产品经理，裁员，用户增长，语言学习，平台转换"
+    },
+    {
+      "id": "2026-04-11-880f5b83",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzk5MDg2MDU1OQ==&mid=2247487831&idx=1&sn=bb7a5cc91bc1465bf3e627f7cf645ed5&chksm=c4688145d5165a61997fd525115d59410c46322c3a58641c09c5609fa760a37f52bcd3e09c88&scene=0#rd",
+      "title": "OpenAI 为什么买下播客栏目 TBPN？",
+      "source": "Fun AI Everyday",
+      "pub_date": "2026-04-11T01:00:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "OpenAI，TBPN，播客收购，内容分发，媒体战略，圈层影响力，编辑独立性，科技媒体"
+    },
+    {
+      "id": "2026-04-11-72a974dd",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649107170&idx=1&sn=f41617e0a10fb71bc90729996120c28c&chksm=82b27e8d07c64f053218041400ba33db62895b806ae2bad6cb1f6d60f0f3d7208a02659eac31&scene=0#rd",
+      "title": "刚刚，MiniMax 正式发布 Music 2.6，我们魔改了一套 Skill",
+      "source": "十字路口Crossing",
+      "pub_date": "2026-04-11T03:38:00.000Z",
+      "keep": false,
+      "section": "五",
+      "article_keywords": "MiniMax,Music 2.6,AI音乐,Cover功能,Music Skills,Claude Code,API,音乐生成"
+    },
+    {
+      "id": "2026-04-11-5170813c",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247497140&idx=1&sn=11fa9f3127e2ba41101237548d57cb06&chksm=9e5016eea396d841636322f4e8c8e3b013373b636674da29705ba670330c00b09d8da1fbd78d&scene=0#rd",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "source": "硅谷101",
+      "pub_date": "2026-04-11T03:36:00.000Z",
+      "keep": true,
+      "section": "四",
+      "article_keywords": "HBM，DRAM，NAND，存储芯片，超级周期，SK海力士，三星，美光，AI推理，供需失衡"
+    },
+    {
+      "id": "2026-04-11-4e3c0ad0",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247490971&idx=1&sn=5585e7efe97fc1f52dcbdb63914fbaec&chksm=964aa39782b60a64d5e434a596feb305708d0ea69db6dec161936cac55b570403f662c8e500b&scene=0#rd",
+      "title": "最新进展：Sam Altman博客回应住宅遭纵火未遂",
+      "source": "Web3天空之城",
+      "pub_date": "2026-04-11T03:29:00.000Z",
+      "keep": true,
+      "section": "一",
+      "article_keywords": "Sam Altman，OpenAI，纵火未遂，燃烧瓶，AI社会焦虑，反AI情绪，叙事升级，企业安全，North Beach，Mission Bay"
+    }
+  ],
+  "last_updated": "2026-04-12T02:50:09.212Z",
+  "total": 75,
+  "kept": 41,
+  "by_source": {
+    "语言即世界language is world": 5,
+    "Kulu的播客笔记": 5,
+    "董佳琦": 5,
+    "有新Newin": 5,
+    "硅谷101": 5,
+    "瓜哥AI新知": 5,
+    "晚点再听LaterCast": 5,
+    "AI 深度研究员": 5,
+    "数字开物": 5,
+    "Fun AI Everyday": 5,
+    "十字路口Crossing": 5,
+    "晚点LatePost": 5,
+    "GD梯度下降": 5,
+    "Web3天空之城": 5,
+    "Z Potentials": 5
+  }
+}

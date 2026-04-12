@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-04-06-insight-061",
+    "created_at": "2026-04-12T02:45:58.540Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI加速创业执行周期",
+    "original_quote": "如果是2022年启动这个项目，他评估需要耗费4年时间、动用350名工程师；但现在，仅靠几个核心人员加上AI工具，团队只用了6周就全部搞定。",
+    "original_context": "Mo Gawdat以自己的项目Emma为例，说明AI工具将原本需要4年和350人的创业项目压缩到6周完成，论证AI时代创业效率的根本性变化。",
+    "article_id": "2026-04-06-a8a61c3e",
+    "article_title": "一个 6 周，一个 4 年，创业比的是反应",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497753&idx=1&sn=8cc1e0d6901e1d00c20657d71722ffff&chksm=f10afb1f75ccae6427ef854c3af706aa10faa3ec4c9d1991ffb6cab310735e3eca1551c457f7&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-06T23:57:00.000Z"
+  },
+  {
+    "id": "2026-04-06-insight-062",
+    "created_at": "2026-04-12T02:45:58.540Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI替代初级岗位，就业市场加速萎缩",
+    "original_quote": "今年应届生招聘下降了23%到30%，因为大量初级岗位正被AI批量接管。",
+    "original_context": "Mo Gawdat在分析AI对就业市场的冲击时指出，初级岗位正在被AI系统性替代，并以应届生招聘数据下降作为佐证。",
+    "article_id": "2026-04-06-a8a61c3e",
+    "article_title": "一个 6 周，一个 4 年，创业比的是反应",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497753&idx=1&sn=8cc1e0d6901e1d00c20657d71722ffff&chksm=f10afb1f75ccae6427ef854c3af706aa10faa3ec4c9d1991ffb6cab310735e3eca1551c457f7&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-06T23:57:00.000Z"
+  },
+  {
+    "id": "2026-04-06-insight-063",
+    "created_at": "2026-04-12T02:45:58.540Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI工具使试错成本趋近于零",
+    "original_quote": "不要害怕试错，因为现在跑通一个原型的成本几乎为零。过去想验证一个想法，可能需要花几个月搭团队、写代码；现在直接用AI工具就能快速跑出Demo，不行就立刻调头。",
+    "original_context": "Mo Gawdat提出应对AI时代的第二个策略，强调借助AI工具可以极低成本快速验证方向，他本人的项目代码重写了6次。",
+    "article_id": "2026-04-06-a8a61c3e",
+    "article_title": "一个 6 周，一个 4 年，创业比的是反应",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497753&idx=1&sn=8cc1e0d6901e1d00c20657d71722ffff&chksm=f10afb1f75ccae6427ef854c3af706aa10faa3ec4c9d1991ffb6cab310735e3eca1551c457f7&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-06T23:57:00.000Z"
+  },
+  {
+    "id": "2026-04-06-insight-064",
+    "created_at": "2026-04-12T02:45:58.540Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "让AI负责执行，人负责决策",
+    "original_quote": "如果你让AI去处理海量信息搜索、基础代码生成这些脏活累活，把省下来的精力放在理解问题本质和做核心决策上，你的效率会产生质的飞跃。",
+    "original_context": "Mo Gawdat以计算器类比AI，提出人与AI协作的正确分工模式：AI承担信息检索和代码生成等执行层任务，人专注于判断与决策。",
+    "article_id": "2026-04-06-a8a61c3e",
+    "article_title": "一个 6 周，一个 4 年，创业比的是反应",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497753&idx=1&sn=8cc1e0d6901e1d00c20657d71722ffff&chksm=f10afb1f75ccae6427ef854c3af706aa10faa3ec4c9d1991ffb6cab310735e3eca1551c457f7&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-06T23:57:00.000Z"
+  }
+]

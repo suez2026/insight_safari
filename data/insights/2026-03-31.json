@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-03-31-insight-122",
+    "created_at": "2026-04-12T02:48:36.939Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "Vibe coding 降低软件生产门槛，使非专业用户可用自然语言生成可运行应用",
+    "original_quote": "当一个没有任何编程背景的人，可以用自然语言描述需求并得到一款可运行的应用，软件开发就从一种专业技能变成了一种普通人可以使用的工具。",
+    "original_context": "文章讨论 vibe coding 的本质价值，将其类比为电子表格让财务建模平民化的范式迁移。",
+    "article_id": "2026-03-31-b5a8e9fe",
+    "article_title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+    "source": "有新Newin",
+    "pub_date": "2026-03-31T09:29:00.000Z"
+  },
+  {
+    "id": "2026-03-31-insight-123",
+    "created_at": "2026-04-12T02:48:36.939Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "Vibe coding 工具核心机制是运行时由 AI 动态生成并执行代码，与平台静态审核框架存在根本冲突",
+    "original_quote": "Vibe coding 工具的核心机制，恰恰是在运行时由 AI 生成并执行代码。用户描述需求，模型输出逻辑，应用实时呈现结果。",
+    "original_context": "文章解释苹果 Guideline 2.5.2 为何天然封堵 vibe coding 品类，指出每次 AI 生成都相当于推送未经审核的新功能。",
+    "article_id": "2026-03-31-b5a8e9fe",
+    "article_title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+    "source": "有新Newin",
+    "pub_date": "2026-03-31T09:29:00.000Z"
+  },
+  {
+    "id": "2026-03-31-insight-124",
+    "created_at": "2026-04-12T02:48:36.939Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "Web-first 是 AI 原生产品更具弹性的分发策略，绕开应用商店审核以匹配模型快速迭代节奏",
+    "original_quote": "这恰好是 AI 原生产品所需要的节奏——模型在快速演进，产品必须同步更新，任何审核摩擦都会造成竞争上的滞后。",
+    "original_context": "文章分析 vibe coding 工具转向 Web 端的合理性，认为核心价值在于生成能力本身而非平台原生性。",
+    "article_id": "2026-03-31-b5a8e9fe",
+    "article_title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+    "source": "有新Newin",
+    "pub_date": "2026-03-31T09:29:00.000Z"
+  },
+  {
+    "id": "2026-03-31-insight-125",
+    "created_at": "2026-04-12T02:48:36.939Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "封闭平台规则不确定性对 AI 应用创业构成结构性风险，审核通过不等于长期合规",
+    "original_quote": "审核通过不等于长期合规，平台规则的解释权始终在苹果手中，且可以随时重新诠释。",
+    "original_context": "文章讨论创业者与封闭平台共存的困境，Anything 从上架到下架不足半年，说明平台风险无法通过常规商业规划对冲。",
+    "article_id": "2026-03-31-b5a8e9fe",
+    "article_title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+    "source": "有新Newin",
+    "pub_date": "2026-03-31T09:29:00.000Z"
+  },
+  {
+    "id": "2026-03-31-insight-126",
+    "created_at": "2026-04-12T02:48:36.939Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "苹果自身 AI 编程工具布局与 vibe coding 品类存在竞争关系，使其平台封锁动机难以被解读为中立执法",
+    "original_quote": "苹果自身并非没有利益考量。Xcode 近期已经整合了 Anthropic 的 Claude 和 OpenAI 的 Codex……Vibe coding 工具的核心价值主张，恰恰是让非专业用户绕开 Xcode 这类专业工具直接构建应用。",
+    "original_context": "文章从竞争利益角度质疑苹果封锁 vibe coding 品类的真实动机，指出两者之间存在直接的用户群体竞争。",
+    "article_id": "2026-03-31-b5a8e9fe",
+    "article_title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247499840&idx=1&sn=a68ac4d4fcbdc3808a700d8578867ebd&chksm=cf45f0300ab9c1cc28900fe491d668260a26006f16a04540d1a99aafd8581c49bea16a81c768&scene=0#rd",
+    "source": "有新Newin",
+    "pub_date": "2026-03-31T09:29:00.000Z"
+  }
+]

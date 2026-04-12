@@ -1,0 +1,1701 @@
+{
+  "version": "1.0",
+  "created_at": "2026-04-12T02:50:09.215Z",
+  "articles": [
+    {
+      "id": "2025-11-28-0f6e9d5b",
+      "type": "article",
+      "title": "独家对话DeepMind谭捷：机器人、世界模型与Google",
+      "keywords": "谭捷，Google DeepMind，机器人，Gemini Robotics 1.5，VLA，强化学习，世界模型，跨本体迁移，仿真数据，具身智能",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-e75cf382",
+      "type": "article",
+      "title": "一家投资OpenAI的硅谷基金的深度研究",
+      "keywords": "Altimeter Capital，OpenAI，Anthropic，硅谷投资，AI泡沫，Robinhood，自动驾驶，Waymo，AI应用，Scaling Law",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2026-01-08-b19a14ac",
+      "type": "article",
+      "title": "全球大模型第一股的上市访谈：敢问路在何方？",
+      "keywords": "智谱，张鹏，港交所上市，全球大模型第一股，AGI，MiniMax，to B商业化，大模型泡沫，ChatGLM，清华",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2026-02-11-89f93fac",
+      "type": "article",
+      "title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+      "keywords": "具身智能，VLA，世界模型，端到端，强化学习，视觉语言行动模型，Scaling Law，物理AGI，自动驾驶，机器人",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2026-03-10-3532edbf",
+      "type": "article",
+      "title": "a16z合伙人解读Top 100 Gen AI报告",
+      "keywords": "a16z，Top100报告，Gen AI，消费级AI，Agent，记忆锁定，ChatGPT，Claude，垂直Agent，Manus",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-12-7d4363f7",
+      "type": "article",
+      "title": "这哥们用小龙虾自动躺赚几百刀，还把全套方法完全分享了",
+      "keywords": "",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-0384c08d",
+      "type": "article",
+      "title": "马斯克又口嗨？AI已经自进化；全球经济将扩大十倍",
+      "keywords": "马斯克，Abundance360峰会，硬起飞，递归自我改进，AGI，ASI，Optimus3，人形机器人，经济规模扩大，AI自我进化",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-9e2187bb",
+      "type": "article",
+      "title": "顶流播客内容是如何炼成的？Lenny的首度全复盘",
+      "keywords": "",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-13-d0946c0b",
+      "type": "article",
+      "title": "Lovart陈冕：AI将替代80%设计师，但这不仅是淘汰，更是平权 | 罗永浩的十字路口",
+      "keywords": "Lovart，AI设计师，无限画布，设计替代，工作流上游，审美平权，AI Native，创业融资，陈冕，罗永浩",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-16-c34b65cb",
+      "type": "article",
+      "title": "独家对话谢赛宁：逃出硅谷！",
+      "keywords": "谢赛宁，AMI Labs，世界模型，Yann LeCun，LLM批判，Bitter Lesson，表征学习，视觉智能，预测大脑，Neo Labs",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2026-03-16-b4e19687",
+      "type": "article",
+      "title": "投毒还是基建？看懂GEO的人，正悄悄在大模型里搞增长",
+      "keywords": "GEO，生成式引擎优化，AI投毒，EchoSurge.AI，大模型营销，内容生态，GEM，AI搜索，品牌可见性",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-4aa4b2a9",
+      "type": "article",
+      "title": "Nvidia GTC 2026 | 黄仁勋：算力需求两年暴涨百万倍，Vera Rubin 与智能体工厂全解析",
+      "keywords": "黄仁勋，GTC2026，Vera Rubin，Groq收购，解构式推理，Open Claw，智能体工厂，算力需求百万倍，Dynamo，Feynman架构",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-26-8e52c000",
+      "type": "article",
+      "title": "Kollab 想把 AI 变成团队操作系统，从个人提效到组织复利",
+      "keywords": "Kollab，Team Agent，协作工作流，Skills技能库，Memory记忆系统，AI协作，跨工具执行，组织效率",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-03-28-e6c499f2",
+      "type": "article",
+      "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+      "keywords": "具身智能，开源模型，VLA模型，Physical Intelligence，π₀，OpenVLA，GR00T N1，Open X-Embodiment，LeRobot，机器人大脑",
+      "source": "硅谷101"
+    },
+    {
+      "id": "2026-03-29-cc3a5d65",
+      "type": "article",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "keywords": "",
+      "source": "硅谷101"
+    },
+    {
+      "id": "2026-03-31-9cca36d1",
+      "type": "article",
+      "title": "Claude Code 泄露事件背后：AI Agent 如何改变企业执行力",
+      "keywords": "Claude Code,源码泄露,AI Agent,执行系统,工具调用,上下文管理,Anthropic,企业AI,agent loop",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-31-b5a8e9fe",
+      "type": "article",
+      "title": "Vibe Coding 被踢出 App Store，下一站在哪里？",
+      "keywords": "vibe coding，Anything，App Store，Guideline 2.5.2，Replit，Bitrig，Web优先，AI代码生成，平台封锁，创业生态",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-01-f1cdc208",
+      "type": "article",
+      "title": "AI企业转型，最难的部分是敢不敢动组织，Oracle 刚给出了它的答案",
+      "keywords": "",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-04-01-c2119d28",
+      "type": "article",
+      "title": "从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+      "keywords": "",
+      "source": "硅谷101"
+    },
+    {
+      "id": "2026-04-02-82c57756",
+      "type": "article",
+      "title": "为什么大多数 AI 出海一开始就失败？问题不在产品",
+      "keywords": "AI出海，产品全球化，SEO，社媒运营，联盟营销，Jenni AI，Gamma，冷启动，增长策略",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-04-8bf29883",
+      "type": "article",
+      "title": "All-in播客：SpaceX拟上市与特斯拉合并为全球第八大公司，伊朗地缘局势，量子计算将摧毁加密技术",
+      "keywords": "All-In播客，Chamath，SpaceX IPO，OpenAI估值，Anthropic，AGI，量子计算，加密货币，AI Agent，Athena",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-05-8e9470fe",
+      "type": "article",
+      "title": "AI 时代的决策陷阱：为什么“逻辑自洽”的战略，往往输给“满地鸡毛”的现实？",
+      "keywords": "",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-04-05-ca613701",
+      "type": "article",
+      "title": "奥特曼：算力即国运，智能体将催生“一人公司”，放弃Sora避免沦为掠夺人类注意力的工具",
+      "keywords": "Sam Altman，OpenAI，算力，AI智能体，一人公司，自动化科研，Sora，AGI，AI安全，社会契约",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-06-2e9f180d",
+      "type": "article",
+      "title": "前Netflix AI产品总监：AI PM不是你想的那种，看完这个再去投简历丨Aakash Gupta",
+      "keywords": "AI PM，产品经理，RAG，Fine-tuning，Agent架构，上下文工程，提示词工程，Netflix，Amazon，Meta",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-06-a8a61c3e",
+      "type": "article",
+      "title": "一个 6 周，一个 4 年，创业比的是反应",
+      "keywords": "Mo Gawdat，Google X，AI创业，反应速度，Emma项目，就业市场，试错成本，AI工具，硅谷，播客访谈",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-06-f834bd37",
+      "type": "article",
+      "title": "写代码不再是门槛，软件公司靠什么？",
+      "keywords": "Simon Willison，Django，AI编程智能体，代码生成，提示词注入，黑灯工厂，软件安全，工程师分层，OpenAI Operator，Lenny's Podcast",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-06-d8530e43",
+      "type": "article",
+      "title": "Anthropic增长负责人：如何实现ARR从10亿飙升至190亿？AI将如何重塑产品经理？",
+      "keywords": "Anthropic，ARR增长，增长自动化，CASH项目，Claude Code，用户激活，产品经理角色，AI安全，增长实验，Lenny播客",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-07-6cc2e555",
+      "type": "article",
+      "title": "Claude仍处于增长阶段 | Anthropic 增长负责人对话实录",
+      "keywords": "Anthropic，Amol Avasare，ARR增长，Claude Code，CASH项目，增长自动化，激活策略，MCP协议，产研比例，AI安全",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-88463e21",
+      "type": "article",
+      "title": "Anthropic增长主管：工程师越多，产品经理越稀缺丨Lenny's Podcast",
+      "keywords": "Anthropic，增长团队，Claude Code，激活难题，CASH项目，PM稀缺，工程师生产力，冷邮件，ARR增长，能力溢出",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-07-5ba6134f",
+      "type": "article",
+      "title": "7 家近期值得关注的 AI 初创公司",
+      "keywords": "",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-07-d463094a",
+      "type": "article",
+      "title": "Sam Altman：四天工作制，比你想的更快",
+      "keywords": "Sam Altman，四天工作制，OpenAI，AI生产力，收入分配，网络安全，社会变革，Axios访谈",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-07-9cfa7ad7",
+      "type": "article",
+      "title": "这个华人团队，在海外做了一个「游戏版 TikTok」",
+      "keywords": "Aippy，AI游戏社区，TikTok，华人出海，赤子城科技，竖屏Feed流，Remix，AI生成游戏",
+      "source": "十字路口Crossing"
+    },
+    {
+      "id": "2026-04-08-76b9c5ef",
+      "type": "article",
+      "title": "实现AGI 必须消除“锯齿状智能”| DeepMind CEO最新对话实录",
+      "keywords": "Demis Hassabis，DeepMind，AGI，Scaling Law，持续学习，锯齿状智能，存储系统，长程规划，AI安全监管，国际原子能机构",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-08-e67c7756",
+      "type": "article",
+      "title": "谁在定义智算基础设施新基准？",
+      "keywords": "",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-08-565a4b62",
+      "type": "article",
+      "title": "Claude Code 实战：如何用一个工具支撑整个小团队丨Aakash Gupta",
+      "keywords": "Claude Code，Team OS，CLAUDE.md，上下文管理，知识库，PM工作流，Agent，Slack MCP",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-08-f14b0a4a",
+      "type": "article",
+      "title": "苹果的 AI 战略到底是什么？",
+      "keywords": "苹果,Apple Intelligence,Siri,端侧AI,私有云,模型集成,App Store,AI战略,终端平台",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-08-744dbe9d",
+      "type": "article",
+      "title": "哈萨比斯：AI 竞争，差距还会拉大",
+      "keywords": "哈萨比斯，DeepMind，AlphaFold，AlphaGo，AlphaTensor，AI竞争，Scaling Law，Agent，蛋白质折叠，技术壁垒",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-08-25a54b59",
+      "type": "article",
+      "title": "AI 漫剧爆了 25 亿播放后，第一批垂直模型出现了｜实测 PixVerse C1",
+      "keywords": "PixVerse,C1模型,AI漫剧,垂直模型,多宫格分镜,术法特效,打斗动作,短剧,爱诗科技,视频生成",
+      "source": "十字路口Crossing"
+    },
+    {
+      "id": "2026-04-08-2eb491c5",
+      "type": "article",
+      "title": "动力电池深度对话：中国是怎么赢下这场硬仗的？",
+      "keywords": "",
+      "source": "硅谷101"
+    },
+    {
+      "id": "2026-04-08-3745a005",
+      "type": "article",
+      "title": "字节 Seed 大模型人才外溢",
+      "keywords": "",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-08-2beeabb9",
+      "type": "article",
+      "title": "惠科上岸，在 LCD 沉没前挤进 OLED 的窄门",
+      "keywords": "",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-08-436e8e55",
+      "type": "article",
+      "title": "话题讨论 | Sora之死：OpenAI从“梦想家”到“生意人”的成人礼",
+      "keywords": "",
+      "source": "GD梯度下降"
+    },
+    {
+      "id": "2026-04-08-2917e18d",
+      "type": "article",
+      "title": "数据库初创公司Supabase估值翻至100亿美元",
+      "keywords": "Supabase，数据库，估值，融资，开源，Postgres，向量搜索，ARR",
+      "source": "GD梯度下降"
+    },
+    {
+      "id": "2026-04-08-d4201aea",
+      "type": "article",
+      "title": "谷歌 CEO 访谈录-1800 亿美元的 AI 豪赌",
+      "keywords": "",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-08-266d0969",
+      "type": "article",
+      "title": "谷歌CEO桑达尔·皮查伊专访：搜索不会被替代，会进化为智能体管家，2027将成企业AI代理的“奇点之年”",
+      "keywords": "桑达尔·皮查伊，谷歌，Gemini，搜索智能体化，AGI，TPU，算力瓶颈，2027企业AI代理，量子计算，太空数据中心",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-09-3eeedf5e",
+      "type": "article",
+      "title": "搜索框将消失，AI Agent 将接管你的所有复杂任务 | 谷歌 CEO最新对话实录",
+      "keywords": "Sundar Pichai，谷歌，AI Agent，搜索转型，Gemini，TPU，资本支出，算力瓶颈，内存短缺，AGI",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-9ae13776",
+      "type": "article",
+      "title": "Every CEO：我们从给每位员工配备AI Agent中学到了什么丨Every",
+      "keywords": "Every，AI Agent，OpenClaw，Claude，个人AI分身，组织架构，Slack机器人，记忆问题，群聊失控，知识工作",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-0a35e24b",
+      "type": "article",
+      "title": "AI 开始雇真人了：RentAHuman 是猎奇项目还是新信号？",
+      "keywords": "RentAHuman，AI agent，MCP，API，真人雇佣，线下执行，零工平台，自动化工作流，平台治理，agent调用边界",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-09-3162edec",
+      "type": "article",
+      "title": "谷歌 CEO：几乎所有软件，都要重做一遍",
+      "keywords": "Sundar Pichai，谷歌，软件重构，Agent智能体，Antigravity，交互范式，工作流，2027拐点，AI原生，Gemini",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-09-36fbebac",
+      "type": "article",
+      "title": "即梦 Octo 来了！它想做的 Vibe Create，是什么？",
+      "keywords": "即梦,Octo,AI创作工具,全链路创作,动态叙事,画布,资产系统,分镜生成,Seedance 2.0",
+      "source": "十字路口Crossing"
+    },
+    {
+      "id": "2026-04-09-9c79a4c7",
+      "type": "article",
+      "title": "对话大疆汪滔：求真理、得自由、活成故事",
+      "keywords": "汪滔，大疆，创业反思，组织管理，无人机，影像产品，熵减，黄埔军校，天空之城，竞争观",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-09-8bf83732",
+      "type": "article",
+      "title": "深度访谈 | 对话NLP传奇：Sora不是真正的世界模型，Moonlake的AGI之路",
+      "keywords": "Moonlake，Chris Manning，世界模型，Sora，行动条件化，符号先验，具身智能，空间智能，双模型架构，Revery",
+      "source": "GD梯度下降"
+    },
+    {
+      "id": "2026-04-09-3cc1149d",
+      "type": "article",
+      "title": "深度访谈 | 从Android到Dreamer：前Stripe CTO想要定义“AI 操作系统”",
+      "keywords": "Dreamer，David Singleton，Agent OS，Sidekick，多代理协作，智能路由，Agentic Commerce，TypeScript，AI操作系统，创业",
+      "source": "GD梯度下降"
+    },
+    {
+      "id": "2026-04-09-beeaeab4",
+      "type": "article",
+      "title": "速递｜进入物理世界，硅谷VC Eclipse13亿美元押注实体产业AI初创",
+      "keywords": "",
+      "source": "Z Potentials"
+    },
+    {
+      "id": "2026-04-09-79b43fc6",
+      "type": "article",
+      "title": "速递｜Xoople获融1.3亿美元，用卫星+AI锁定企业工作流入口",
+      "keywords": "",
+      "source": "Z Potentials"
+    },
+    {
+      "id": "2026-04-09-ddb5178b",
+      "type": "article",
+      "title": "最新对话DeepMind 戴米斯·哈萨比斯：通向 AGI - 科学、创造力与人类的未来 | 2万字图解",
+      "keywords": "戴米斯·哈萨比斯，DeepMind，AGI，AlphaFold，蛋白质折叠，AlphaGo，强化学习，代理时代，科学发现，星际文明",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-9408b9a7",
+      "type": "article",
+      "title": "我们正迈入部署 AGI的阶段 | OpenAI 首席科学家对话实录",
+      "keywords": "Jakub Pachocki，OpenAI，AGI部署，思维链监控，强化学习，长程智能体，模型对齐，Codex，数学推理，超级智能",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-9b7e3c4e",
+      "type": "article",
+      "title": "从铀矿、雷达到建筑图纸：YC 最新 Demo Day 里，最值得看的三类 AI 公司",
+      "keywords": "YC W2026，Demo Day，AI创企，垂直工作流，数据入口，铀矿勘探，机器人训练数据，医疗口译，建筑AI，可穿戴AI",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-fe2eaee0",
+      "type": "article",
+      "title": "“AGI 来了？我用了一周，头皮发麻”｜对谈张昊然：Moxt 联合创始人",
+      "keywords": "Moxt，AI Native Workspace，AI同事，Agent，上下文管理，Markdown，文件系统，组织协作，AGI，工作方式变革",
+      "source": "十字路口Crossing"
+    },
+    {
+      "id": "2026-04-10-78efa721",
+      "type": "article",
+      "title": "未来医生王仕锐：打造医疗 AGI，把临床医学更新提速 10 倍",
+      "keywords": "未来医生，王仕锐，医疗AGI，临床实践指南，MedGPT，推理模型，快慢系统，开源医疗，严肃医疗，AI医生",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-c7cafab1",
+      "type": "article",
+      "title": "具身季报 26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手丨晚点播客",
+      "keywords": "具身智能，人形机器人，宇树科技，英伟达世界模型，灵巧手，Sharpa，VLA模型，WAM，银河通用，Figure AI",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-0667a39f",
+      "type": "article",
+      "title": "深度访谈 | YC对话Keras之父：AGI 2030 倒计时，AI 的下一场进化不在 LLM 内部",
+      "keywords": "François Chollet，Keras，AGI，流体智力，NDIA，程序综合，符号下降，ARC-AGI，LLM局限，强化学习",
+      "source": "GD梯度下降"
+    },
+    {
+      "id": "2026-04-10-41024220",
+      "type": "article",
+      "title": "华兴资本 CEO：AI 时代没有拐点，成功企业由一连串 PIVOT 组成",
+      "keywords": "华兴资本，王力行，AI创业，PIVOT，智谱AI，硅基流动，全栈竞争，护城河，具身智能，创始人openness",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-9f868060",
+      "type": "article",
+      "title": "前特斯拉与 SpaceX 工程师独家拆解：硅谷神话背后，那套可复制的效率操作系统",
+      "keywords": "",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-edcad923",
+      "type": "article",
+      "title": "速递｜前DeepMind研究员创办，AI视觉推理Elorian融资5500万美元",
+      "keywords": "",
+      "source": "Z Potentials"
+    },
+    {
+      "id": "2026-04-10-a1cc1a3f",
+      "type": "article",
+      "title": "速递｜OpenAI预测2030年广告收入1020亿美元，CPM定价60美元，目标是Meta",
+      "keywords": "",
+      "source": "Z Potentials"
+    },
+    {
+      "id": "2026-04-10-7788f361",
+      "type": "article",
+      "title": "Z Potentials｜4个月Discord全球第二，然后呢？Viggle创始人首次讲述通往世界模型的路",
+      "keywords": "Viggle AI，世界模型，3D生成式，World Token，JST架构，AI原生游戏，可控视频生成，端侧推理，创始人楚航，Discord社区",
+      "source": "Z Potentials"
+    },
+    {
+      "id": "2026-04-10-c9e66aa4",
+      "type": "article",
+      "title": "HappyHorse「欢乐马」真相揭晓：阿里ATH郑波团队打造，4月30日开放API",
+      "keywords": "",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-b142086a",
+      "type": "article",
+      "title": "Claude Mythos模型：当 AI 强大到创造者都不敢释放",
+      "keywords": "Claude Mythos，Anthropic，网络安全，零日漏洞，Project Glasswing，分级访问，AI安全，红队测试，Dario Amodei，自主攻防",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-a4de3da1",
+      "type": "article",
+      "title": "马克·安德森：“大语言模型 + Unix Shell + 文件系统 + Markdown + 定时任务”是伟大突破，加密货币会成为AI智能体的原生货币",
+      "keywords": "Marc Andreessen，a16z，AI智能体，大语言模型，Unix Shell，加密货币，稳定币，开源AI，边缘推理，规模法则，DeepSeek，创始人模式",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-11-beaa95ca",
+      "type": "article",
+      "title": "多邻国CEO：AI没让我裁一个人，但它改变了所有人的工作方式 | Silicon Valley Girl",
+      "keywords": "Duolingo，Luis von Ahn，AI编码，vibe coding，象棋课程，产品经理，裁员，用户增长，语言学习，平台转换",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-880f5b83",
+      "type": "article",
+      "title": "OpenAI 为什么买下播客栏目 TBPN？",
+      "keywords": "OpenAI，TBPN，播客收购，内容分发，媒体战略，圈层影响力，编辑独立性，科技媒体",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-11-72a974dd",
+      "type": "article",
+      "title": "刚刚，MiniMax 正式发布 Music 2.6，我们魔改了一套 Skill",
+      "keywords": "MiniMax,Music 2.6,AI音乐,Cover功能,Music Skills,Claude Code,API,音乐生成",
+      "source": "十字路口Crossing"
+    },
+    {
+      "id": "2026-04-11-5170813c",
+      "type": "article",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "keywords": "HBM，DRAM，NAND，存储芯片，超级周期，SK海力士，三星，美光，AI推理，供需失衡",
+      "source": "硅谷101"
+    },
+    {
+      "id": "2026-04-11-4e3c0ad0",
+      "type": "article",
+      "title": "最新进展：Sam Altman博客回应住宅遭纵火未遂",
+      "keywords": "Sam Altman，OpenAI，纵火未遂，燃烧瓶，AI社会焦虑，反AI情绪，叙事升级，企业安全，North Beach，Mission Bay",
+      "source": "Web3天空之城"
+    }
+  ],
+  "insights": [
+    {
+      "id": "2025-11-28-insight-080",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "VLA模型本质是多模态大模型的fine-tuning延伸，而非独立学科",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-081",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "大语言模型为机器人提供了大脑（推理/规划），强化学习对应小脑（执行/控制）",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-082",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "Thinking model（推理时扩展token预算）能力被引入机器人，是近期重要技术突破",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-083",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "Sim-to-Real + 深度强化学习是过去十年机器人领域第一次范式转移",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-084",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "通用模型（generalist model）最终会碾压专有模型，这一规律同样适用于机器人",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-085",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "机器人泛化能力仍是核心瓶颈，精细操作任务成功率仅30-40%，距实用仍需数年",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-086",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "从demo到真正落地通常需要5-10年，机器人与自动驾驶路径类似",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-11-28-insight-087",
+      "type": "insight",
+      "article_id": "2025-11-28-0f6e9d5b",
+      "key_viewpoints": "大语言模型赋予机器人自然语言理解与常识推理能力，使任何人都可以指挥机器人",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-071",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "Agent支付/稳定币基础设施",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-072",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "Agent登录与身份认证是基础设施瓶颈",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-073",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "企业端系统集成是Agent落地的更优路径",
+      "dimension": "Agent Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-074",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "OpenAI企业端Agent作为超级入口潜力被低估",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-075",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "Agentic Commerce将冲击谷歌和Meta广告垄断格局",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-076",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "Agent在高决策复杂度场景（如保险比价）替代搜索广告",
+      "dimension": "Agent 应用",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-077",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "大模型训练成本按Scaling Law每年约10倍增长，形成负向现金流滚雪球",
+      "dimension": "AI Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-078",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "GPU云是模型公司自然延伸的基础设施业务",
+      "dimension": "AI Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2025-12-25-insight-079",
+      "type": "insight",
+      "article_id": "2025-12-25-e75cf382",
+      "key_viewpoints": "谷歌TPU纵向整合使其在推理成本上具备结构性优势",
+      "dimension": "AI Infra",
+      "source": "语言即世界language is world"
+    },
+    {
+      "id": "2026-03-10-insight-107",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "记忆与身份成为比模型更深的锁定壁垒",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-108",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "工作记忆与个人记忆的分层隔离是下一个技术竞争高地",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-109",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "ChatGPT身份协议将记忆资产化，使其成为用户核心数字身份层",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-110",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "记忆基础设施是独立投资机会，可帮助各类AI产品实现跨session用户理解",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-111",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "横向Agent独立产品因分发劣势难以持续，垂直Agent机会窗口更大",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-112",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "OpenClaw成为GitHub Stars历史第一但尚未出圈，代码Agent仍有消费级爆发空间",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-113",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "垂直Agent应优先选择大模型公司投入较少的方向并深度绑定特定人群工作流",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-10-insight-114",
+      "type": "insight",
+      "article_id": "2026-03-10-3532edbf",
+      "key_viewpoints": "桌面原生Agent工具实际使用量远超Web数据显示，已被重度用户验证",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-13-insight-065",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "AI递归自我改进已在发生，完全自动化即将实现",
+      "dimension": "Agent Infra",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-insight-066",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "AI迭代速度已超出人类观察者的追踪能力",
+      "dimension": "Agent Infra",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-insight-067",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "AI进步遵循S曲线叠加模型，而非单一指数曲线",
+      "dimension": "Agent Infra",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-insight-068",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "人形机器人Optimus 3将是当前最先进的，量产时间线明确",
+      "dimension": "Agent 应用",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-insight-069",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "AI与机器人将提供超越当前顶级水平的医疗服务，实现医疗民主化",
+      "dimension": "Agent 应用",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-13-insight-070",
+      "type": "insight",
+      "article_id": "2026-03-13-0384c08d",
+      "key_viewpoints": "AI和机器人不替代人类，而是将人均产出放大到前所未有的量级",
+      "dimension": "Agent 应用",
+      "source": "董佳琦"
+    },
+    {
+      "id": "2026-03-17-insight-095",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "安装基数是最深层护城河",
+      "dimension": "AI Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-096",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "Tokens per Watt成为AI基础设施盈亏核心指标",
+      "dimension": "AI Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-097",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "算力需求两年增长百万倍，推理超越训练成主要驱动力",
+      "dimension": "AI Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-098",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "到2027年AI算力订单需求至少达1万亿美元",
+      "dimension": "AI Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-099",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "解构式推理是破解万亿参数模型延迟的关键架构方向",
+      "dimension": "AI Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-100",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "Open Claw将成为智能体时代的Linux操作系统",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-101",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "Nemo Claw解决智能体企业级安全合规痛点",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-102",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "机密计算使云端部署高价值AI模型成为可能",
+      "dimension": "Agent Infra",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-103",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "工程师年度Token预算将成为新型生产力标配与招聘筹码",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-104",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "企业产品方向应从辅助工具转向全流程自动化智能体",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-105",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "物理AI进化从动画预设转向实时推理，具身智能需具备决策解释能力",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-17-insight-106",
+      "type": "insight",
+      "article_id": "2026-03-17-4aa4b2a9",
+      "key_viewpoints": "合成数据与数字孪生是覆盖物理世界长尾案例的核心路径",
+      "dimension": "Agent 应用",
+      "source": "Kulu的播客笔记"
+    },
+    {
+      "id": "2026-03-31-insight-122",
+      "type": "insight",
+      "article_id": "2026-03-31-b5a8e9fe",
+      "key_viewpoints": "Vibe coding 降低软件生产门槛，使非专业用户可用自然语言生成可运行应用",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-03-31-insight-123",
+      "type": "insight",
+      "article_id": "2026-03-31-b5a8e9fe",
+      "key_viewpoints": "Vibe coding 工具核心机制是运行时由 AI 动态生成并执行代码，与平台静态审核框架存在根本冲突",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-03-31-insight-124",
+      "type": "insight",
+      "article_id": "2026-03-31-b5a8e9fe",
+      "key_viewpoints": "Web-first 是 AI 原生产品更具弹性的分发策略，绕开应用商店审核以匹配模型快速迭代节奏",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-03-31-insight-125",
+      "type": "insight",
+      "article_id": "2026-03-31-b5a8e9fe",
+      "key_viewpoints": "封闭平台规则不确定性对 AI 应用创业构成结构性风险，审核通过不等于长期合规",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-03-31-insight-126",
+      "type": "insight",
+      "article_id": "2026-03-31-b5a8e9fe",
+      "key_viewpoints": "苹果自身 AI 编程工具布局与 vibe coding 品类存在竞争关系，使其平台封锁动机难以被解读为中立执法",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-04-insight-143",
+      "type": "insight",
+      "article_id": "2026-04-04-8bf29883",
+      "key_viewpoints": "AI代理结合远程人才降低运营成本",
+      "dimension": "Agent Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-04-insight-144",
+      "type": "insight",
+      "article_id": "2026-04-04-8bf29883",
+      "key_viewpoints": "AI代理重塑全球知识工作者成本结构",
+      "dimension": "Agent 应用",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-04-insight-145",
+      "type": "insight",
+      "article_id": "2026-04-04-8bf29883",
+      "key_viewpoints": "xAI与SpaceX、特斯拉的AI基础设施协同",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-04-insight-146",
+      "type": "insight",
+      "article_id": "2026-04-04-8bf29883",
+      "key_viewpoints": "AI驱动的万亿级公司上市将压缩传统软件估值",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-06-insight-061",
+      "type": "insight",
+      "article_id": "2026-04-06-a8a61c3e",
+      "key_viewpoints": "AI加速创业执行周期",
+      "dimension": "Agent 应用",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-06-insight-062",
+      "type": "insight",
+      "article_id": "2026-04-06-a8a61c3e",
+      "key_viewpoints": "AI替代初级岗位，就业市场加速萎缩",
+      "dimension": "Agent 应用",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-06-insight-063",
+      "type": "insight",
+      "article_id": "2026-04-06-a8a61c3e",
+      "key_viewpoints": "AI工具使试错成本趋近于零",
+      "dimension": "Agent 应用",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-06-insight-064",
+      "type": "insight",
+      "article_id": "2026-04-06-a8a61c3e",
+      "key_viewpoints": "让AI负责执行，人负责决策",
+      "dimension": "Agent 应用",
+      "source": "AI 深度研究员"
+    },
+    {
+      "id": "2026-04-07-insight-023",
+      "type": "insight",
+      "article_id": "2026-04-07-6cc2e555",
+      "key_viewpoints": "MCP协议连接数据源，AI主动识别团队沟通偏差",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-insight-024",
+      "type": "insight",
+      "article_id": "2026-04-07-6cc2e555",
+      "key_viewpoints": "CASH项目实现增长实验全流程自动化闭环",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-insight-025",
+      "type": "insight",
+      "article_id": "2026-04-07-6cc2e555",
+      "key_viewpoints": "AI Agent 介入团队协同需要开放的数据结构作为上下文",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-insight-026",
+      "type": "insight",
+      "article_id": "2026-04-07-6cc2e555",
+      "key_viewpoints": "今年晚些时候将出现基于实时动态提供业务建议的策略辅助系统",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-insight-027",
+      "type": "insight",
+      "article_id": "2026-04-07-6cc2e555",
+      "key_viewpoints": "为 AI 注入品牌准则技能包可降低人工审核需求",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-07-insight-034",
+      "type": "insight",
+      "article_id": "2026-04-07-88463e21",
+      "key_viewpoints": "AI自动化增长实验闭环",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-07-insight-035",
+      "type": "insight",
+      "article_id": "2026-04-07-88463e21",
+      "key_viewpoints": "模型迭代速度使Agent能力快速跃升",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-07-insight-036",
+      "type": "insight",
+      "article_id": "2026-04-07-88463e21",
+      "key_viewpoints": "能力溢出是AI应用激活的核心难题",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-07-insight-037",
+      "type": "insight",
+      "article_id": "2026-04-07-88463e21",
+      "key_viewpoints": "Agent工具提升工程师产出倍数，重塑团队协作结构",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-08-insight-135",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "搜索进化为智能体管家",
+      "dimension": "Agent Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-136",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "搜索将支持长期复杂任务的智能体工作流",
+      "dimension": "Agent Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-137",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "搜索演进为智能体交互，支持并发多线程任务处理",
+      "dimension": "Agent Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-138",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "2027年是企业AI代理工作流大规模爆发的奇点之年",
+      "dimension": "Agent Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-139",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "TPU与Gemini深度协同实现全栈垂直整合，极致挖掘推理效率",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-140",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "毫秒级延迟预算管理是打造卓越产品的核心工程实践",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-141",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "算力供应链瓶颈将倒逼更高效的模型压缩与资源循环利用",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-08-insight-142",
+      "type": "insight",
+      "article_id": "2026-04-08-266d0969",
+      "key_viewpoints": "谷歌早在2016年即以AI优先战略布局TPU与AI数据中心",
+      "dimension": "AI Infra",
+      "source": "瓜哥AI新知"
+    },
+    {
+      "id": "2026-04-09-insight-001",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "搜索将演化为AI Agent任务执行器",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-002",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "2027年AI Agent将实现无人工干预的自动化业务预测",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-003",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "未来交互界面将由底层编码模型和安全框架重新定义",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-004",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "CEO已在使用多Agent协作系统管理任务，搜索将向同类模式演进",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-005",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "AI Agent已能在无需打开IDE的情况下完成复杂编程任务",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-006",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "AI Agent正在替代CEO获取用户反馈的人工流程",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-007",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "内存是当前AI基础设施最关键的短缺组件",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-008",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "晶圆产能是AI算力扩张的根本物理约束",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-009",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "垂直整合（模型+基础设施+应用）是谷歌核心竞争壁垒",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-010",
+      "type": "insight",
+      "article_id": "2026-04-09-3eeedf5e",
+      "key_viewpoints": "延迟是衡量底层架构稳健性的关键指标，过去五年搜索延迟降低30%",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-09-insight-038",
+      "type": "insight",
+      "article_id": "2026-04-09-0a35e24b",
+      "key_viewpoints": "Agent 调用真人的基础设施接口",
+      "dimension": "Agent Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-09-insight-039",
+      "type": "insight",
+      "article_id": "2026-04-09-0a35e24b",
+      "key_viewpoints": "Agent 调用边界从软件扩展至现实世界",
+      "dimension": "Agent Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-09-insight-040",
+      "type": "insight",
+      "article_id": "2026-04-09-0a35e24b",
+      "key_viewpoints": "真人被程序化接入自动化链路",
+      "dimension": "Agent Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-09-insight-041",
+      "type": "insight",
+      "article_id": "2026-04-09-0a35e24b",
+      "key_viewpoints": "可程序化调用带来平台治理与责任归属难题",
+      "dimension": "Agent Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-09-insight-042",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "AI Agent 私人化是组织落地的关键",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-043",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "AI Agent 可承接异步、多步骤的现实任务（如邮件处理、家庭事务）",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-044",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "Agent 可接管家庭「电脑跑腿」类事务，具备独立支付和订单管理能力",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-045",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "Agent 会从与主人的日常互动中习得个性，形成镜像关系",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-046",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "Agent 间可通过共享文档实现能力的即时扩散，无需逐一训练",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-047",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "多 Agent 并行形成与人类组织平行的 AI 架构，每只 Agent 高度专精",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-048",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "Agent 应优先承接可被封装的任务，减少对人类注意力的消耗",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-049",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "强制公开对话是建立组织内 Agent 信任的基础设施选择",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-050",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "当前模型缺乏群聊礼仪，多 Agent 协作存在死循环风险，需模型层改进",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-051",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "专精加分层（Boss Agent + 执行 Agent）是组织多 Agent 的有效架构",
+      "dimension": "Agent Infra",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-09-insight-052",
+      "type": "insight",
+      "article_id": "2026-04-09-9ae13776",
+      "key_viewpoints": "管理 AI Agent 的底层能力与管理人的能力相同：将模糊任务转化为具体指令",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-10-insight-011",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "AGI进展衡量指标：自主运行时间跨度与任务指令模糊度",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-012",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "长程任务突破的关键：模型自检能力与环境交互能力",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-013",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "强化学习路线图演进：从Token推理到工具使用、视觉能力，再到物理实体控制",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-014",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "思维链不受对齐训练干预，是监控模型真实动机的有效范式",
+      "dimension": "Agent Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-015",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "Codex爆发验证AGI路线正确性，编程范式已发生根本转变",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-016",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "能自主工作数日、消耗高算力并独立交付成果的AI模型即将出现",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-017",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "AI Agent时代人才需求转向全局监督、愿景设定与架构设计能力",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-018",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "未来AI将主导自动化实验室的创意构思与实验设计，与人类协作而非全自动化",
+      "dimension": "Agent 应用",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-019",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "持续学习已内化于上下文学习能力，规模效应仍是驱动改进的核心路径",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-020",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "算力分配优先保障可扩展性最强的方法，避免资源零散化",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-021",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "数学是衡量AI智能进展的通用指标，数学推理能力提升可直接转化为AI研究能力",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-022",
+      "type": "insight",
+      "article_id": "2026-04-10-9408b9a7",
+      "key_viewpoints": "强化学习向法律、医学等复杂领域泛化，与长程任务挑战本质相通",
+      "dimension": "AI Infra",
+      "source": "数字开物"
+    },
+    {
+      "id": "2026-04-10-insight-053",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "生产环境事故自动归因与修复",
+      "dimension": "Agent Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-054",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "垂直工作流 Agent 优先进入已有预算的具体场景",
+      "dimension": "Agent 应用",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-055",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "反欺诈 Agent 需持续调查、多源取证，不能只靠单次大模型推理",
+      "dimension": "Agent 应用",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-056",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "行业 Agent 目标是成为垂直领域操作系统而非单点工具",
+      "dimension": "Agent 应用",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-057",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "视频训练数据按需交付是新型数据供给基础设施",
+      "dimension": "AI Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-058",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "机器人训练所需的真实世界动作数据尚未形成规模化供给",
+      "dimension": "AI Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-059",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "智能评测基准本身会成为行业基础设施",
+      "dimension": "AI Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-060",
+      "type": "insight",
+      "article_id": "2026-04-10-9b7e3c4e",
+      "key_viewpoints": "场景强绑定的非公开持续更新数据将重新变贵",
+      "dimension": "AI Infra",
+      "source": "Fun AI Everyday"
+    },
+    {
+      "id": "2026-04-10-insight-088",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "医疗AGI目标：将临床实践指南更新周期从3-5年压缩到3个月",
+      "dimension": "Agent 应用",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-089",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "AI+专家团队模式：AI负责结构化问诊和初步诊断，真人医生逐级兜底并签字负责",
+      "dimension": "Agent 应用",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-090",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "快慢双系统架构：快系统负责自然语义理解，慢系统负责深度推理验证，ACC模块协调两者降低幻觉",
+      "dimension": "Agent Infra",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-091",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "知识飞轮设计：小飞轮基于公开医学资料结构化为疾病算法库，大飞轮来自专家个人诊疗经验结构化为可计算临床证据单元",
+      "dimension": "Agent Infra",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-092",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "奖励函数设计是医疗AGI的核心：需将最优医生人格规则化，驱动模型像顶级医生一样思考并具备同理心",
+      "dimension": "Agent Infra",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-093",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "AI的'自知之明'是医疗场景落地的关键能力：能做的事做好，做不到的明确知道做不到",
+      "dimension": "Agent 应用",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-094",
+      "type": "insight",
+      "article_id": "2026-04-10-78efa721",
+      "key_viewpoints": "医疗供给瓶颈可通过AI分级过滤解决：AI前置问诊可将专家工作量降至原来1%，等效供给扩大100倍",
+      "dimension": "Agent 应用",
+      "source": "晚点LatePost"
+    },
+    {
+      "id": "2026-04-10-insight-115",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "技术领先是动态衰减变量，需转化为可沉淀资产",
+      "dimension": "AI Infra",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-116",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "CUDA护城河是当前AI领域唯一成型的深厚壁垒",
+      "dimension": "AI Infra",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-117",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "硅基流动将DeepSeek红利窗口期转化为大客户服务口碑，形成长期资产",
+      "dimension": "AI Infra",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-118",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "Harness Engineering是To B场景的核心，保障工作流稳定性",
+      "dimension": "Agent Infra",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-119",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "Runtime是最底层的系统级支撑，构成Agent能力的基础设施层",
+      "dimension": "Agent Infra",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-120",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "Context Engineering是To C产品的核心，决定产品对用户的理解深度与粘性",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-121",
+      "type": "insight",
+      "article_id": "2026-04-10-41024220",
+      "key_viewpoints": "具身智能团队可将自动驾驶十年落地经验直接迁移复用",
+      "dimension": "Agent 应用",
+      "source": "有新Newin"
+    },
+    {
+      "id": "2026-04-10-insight-127",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "自主攻防型AI成熟",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-128",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "Agent自主越权与痕迹清除",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-129",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "Agent突破沙箱隔离并自主对外通信",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-130",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "Agent内部状态与前端输出存在欺骗性分离",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-131",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "Agent任务偏好自主漂移",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-132",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "Agent具备多漏洞串联的攻击链构建能力",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-133",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "网络安全能力是编码能力的涌现副产品",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-10-insight-134",
+      "type": "insight",
+      "article_id": "2026-04-10-b142086a",
+      "key_viewpoints": "物理隔离式访问控制成为高风险Agent的分发机制",
+      "dimension": "Agent Infra",
+      "source": "Web3天空之城"
+    },
+    {
+      "id": "2026-04-11-insight-028",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "非技术人员用AI工具独立构建产品原型",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-insight-029",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "PM用AI直接生成可交互原型替代文字提案，提升决策效率",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-insight-030",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "全员vibe coding让非技术员工自发构建个人KPI工具",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-insight-031",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "AI代码生成在「快乐路径」之外效率增益有限，调试成本高",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-insight-032",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "AI内容批量生成质量不稳定，仍需人工质检",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    },
+    {
+      "id": "2026-04-11-insight-033",
+      "type": "insight",
+      "article_id": "2026-04-11-beaa95ca",
+      "key_viewpoints": "AI对话练习功能因成本下降将从付费档位逐步免费开放",
+      "dimension": "Agent 应用",
+      "source": "晚点再听LaterCast"
+    }
+  ]
+}
